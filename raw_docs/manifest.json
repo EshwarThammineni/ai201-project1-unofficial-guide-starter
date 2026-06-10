@@ -1,0 +1,128 @@
+{
+  "fetched_at": "2026-06-10T04:18:04.144450+00:00",
+  "total": 10,
+  "ok": 10,
+  "failed": 0,
+  "sources": [
+    {
+      "source_id": 1,
+      "source_title": "The Ultimate Guide To Dorms At UGA",
+      "source_type": "blog",
+      "url": "https://www.society19.com/ultimate-guide-dorms-uga/",
+      "filename": "src01_blog.txt",
+      "fetched_at": "2026-06-10T04:18:02.982694+00:00",
+      "content_type": "html",
+      "char_count": 158187,
+      "status": "ok (cached)",
+      "error": null
+    },
+    {
+      "source_id": 2,
+      "source_title": "The 5 Best University of Georgia Dorms",
+      "source_type": "blog",
+      "url": "https://humansofuniversity.com/university-of-georgia/the-5-best-university-of-georgia-dorm/",
+      "filename": "src02_blog.txt",
+      "fetched_at": "2026-06-10T04:18:03.198364+00:00",
+      "content_type": "html",
+      "char_count": 192667,
+      "status": "ok (cached)",
+      "error": null
+    },
+    {
+      "source_id": 3,
+      "source_title": "Best University of Georgia Dorms: A Comprehensive Guide",
+      "source_type": "blog",
+      "url": "https://prked.com/post/best-university-of-georgia-dorms",
+      "filename": "src03_blog.txt",
+      "fetched_at": "2026-06-10T04:18:03.458450+00:00",
+      "content_type": "html",
+      "char_count": 95724,
+      "status": "ok (cached)",
+      "error": null
+    },
+    {
+      "source_id": 4,
+      "source_title": "University of Georgia Freshman Dorms Ranked",
+      "source_type": "review_site",
+      "url": "https://www.ratemydorm.com/freshman-dorms-ranked/university-of-georgia",
+      "filename": "src04_review_site.txt",
+      "fetched_at": "2026-06-10T04:18:03.678100+00:00",
+      "content_type": "html",
+      "char_count": 54792,
+      "status": "ok (cached)",
+      "error": null
+    },
+    {
+      "source_id": 5,
+      "source_title": "Where to Live at the University of Georgia",
+      "source_type": "blog",
+      "url": "https://capgown.com/blogs/best-of/where-to-live-at-the-university-of-georgia-housing-options-for-the-bulldogs-community",
+      "filename": "src05_blog.txt",
+      "fetched_at": "2026-06-10T04:18:03.715852+00:00",
+      "content_type": "html",
+      "char_count": 121317,
+      "status": "ok (cached)",
+      "error": null
+    },
+    {
+      "source_id": 6,
+      "source_title": "Best dorms for freshman (Reddit)",
+      "source_type": "reddit",
+      "url": "https://www.reddit.com/r/UGA/comments/17yf3k3/best_dorms_for_freshman/",
+      "filename": "src06_reddit.txt",
+      "fetched_at": "2026-06-10T04:18:04.034302+00:00",
+      "content_type": "text",
+      "char_count": 12813,
+      "status": "ok (cached)",
+      "error": null
+    },
+    {
+      "source_id": 7,
+      "source_title": "UGA Housing Rates",
+      "source_type": "official",
+      "url": "https://housing.uga.edu/rates/",
+      "filename": "src07_official.txt",
+      "fetched_at": "2026-06-10T04:18:04.043404+00:00",
+      "content_type": "html",
+      "char_count": 84190,
+      "status": "ok (cached)",
+      "error": null
+    },
+    {
+      "source_id": 8,
+      "source_title": "I was just admitted to UGA. What are the best dorms? (Reddit)",
+      "source_type": "reddit",
+      "url": "https://www.reddit.com/r/UGA/comments/1pfb5qc/i_was_just_admitted_to_uga_what_are_the_best_dorms/",
+      "filename": "src08_reddit.txt",
+      "fetched_at": "2026-06-10T04:18:04.044107+00:00",
+      "content_type": "text",
+      "char_count": 9776,
+      "status": "ok (cached)",
+      "error": null
+    },
+    {
+      "source_id": 9,
+      "source_title": "Dorm Rankings? (Reddit)",
+      "source_type": "reddit",
+      "url": "https://www.reddit.com/r/UGA/comments/1tx9qmr/dorm_rankings/",
+      "filename": "src09_reddit.txt",
+      "fetched_at": "2026-06-10T04:18:04.044503+00:00",
+      "content_type": "text",
+      "char_count": 4487,
+      "status": "ok (cached)",
+      "error": null
+    },
+    {
+      "source_id": 10,
+      "source_title": "UGA Halls Information",
+      "source_type": "official",
+      "url": "https://housing.uga.edu/halls-information/",
+      "filename": "src10_official.txt",
+      "fetched_at": "2026-06-10T04:18:04.044880+00:00",
+      "content_type": "html",
+      "char_count": 63049,
+      "status": "ok (cached)",
+      "error": null
+    }
+  ]
+}

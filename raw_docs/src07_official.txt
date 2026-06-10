@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+
+<head>
+
+<title>Rates &#8211; University Housing</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://housing.uga.edu/xmlrpc.php">
+
+<meta name="theme-color" content="#fffefe"><link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="University Housing &raquo; Feed" href="https://housing.uga.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="University Housing &raquo; Comments Feed" href="https://housing.uga.edu/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://housing.uga.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhousing.uga.edu%2Frates%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://housing.uga.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhousing.uga.edu%2Frates%2F&#038;format=xml" />
+<style id="icelander-text-widget-icon-fallback">.widget-symbol::before { content: "?"; font-family: inherit; }</style><style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='wp-block-paragraph-inline-css' type='text/css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://housing.uga.edu/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='wp-block-spacer-inline-css' type='text/css'>
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://housing.uga.edu/wp-includes/blocks/spacer/style.min.css */
+</style>
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='cl-plugin-styles-css' href='https://housing.uga.edu/wp-content/plugins/campus-labs-events/css/cl-events.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='leaflet-css' href='https://housing.uga.edu/wp-content/themes/icelander-child/css/leaflet.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-refined-css' href='https://housing.uga.edu/wp-content/themes/icelander-child/css/bootstrap-refined.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pannellum-css' href='https://housing.uga.edu/wp-content/themes/icelander-child/css/pannellum.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='beforeafter-css' href='https://housing.uga.edu/wp-content/themes/icelander-child/css/twentytwenty.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='timeline-css' href='https://housing.uga.edu/wp-content/themes/icelander-child/css/timeline-default.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='metroicons-css' href='https://housing.uga.edu/wp-content/themes/icelander-child/css/metro-icons.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wm-fonticons-css' href='https://housing.uga.edu/wp-content/themes/icelander/assets/fonts/fontello/fontello.css?ver=1.5.9' type='text/css' media='screen' />
+<link rel='stylesheet' id='icelander-google-fonts-css' href='https://fonts.googleapis.com/css?family=Fira+Sans%3A100%2C300%2C400%2C700%2C900&#038;subset=latin&#038;ver=1.4.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='genericons-neue-css' href='https://housing.uga.edu/wp-content/themes/icelander/assets/fonts/genericons-neue/genericons-neue.css?ver=1.4.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='icelander-stylesheet-main-css' href='https://housing.uga.edu/wp-content/themes/icelander/assets/css/main.css?ver=1.4.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='icelander-stylesheet-shortcodes-css' href='https://housing.uga.edu/wp-content/themes/icelander/assets/css/shortcodes.css?ver=1.4.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='icelander-stylesheet-custom-css' href='https://housing.uga.edu/wp-content/themes/icelander/assets/css/custom-styles.css?ver=1.4.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='icelander-stylesheet-print-css' href='https://housing.uga.edu/wp-content/themes/icelander/assets/css/print.css?ver=1.4.0' type='text/css' media='print' />
+<style id='icelander-inline-css' type='text/css'>
+/* START CSS variables */
+:root { 
+--color_intro_background: #d6d2c4; --color_intro_widgets_background: #ba0c2f; --footer_image_repeat: no-repeat;
+}
+/* END CSS variables */
+/*# sourceURL=icelander-inline-css */
+</style>
+<link rel='stylesheet' id='icelander-stylesheet-css' href='https://housing.uga.edu/wp-content/themes/icelander-child/style.css?ver=6.9.4' type='text/css' media='all' />
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander/library/js/vendor/css-vars-ponyfill/css-vars-ponyfill.min.js?ver=1.16.1" id="css-vars-ponyfill-js"></script>
+<script type="text/javascript" id="css-vars-ponyfill-js-after">
+/* <![CDATA[ */
+cssVars( { onlyVars: true, exclude: 'link:not([href^="https://housing.uga.edu/wp-content/themes"])' } );
+//# sourceURL=css-vars-ponyfill-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/plugins/campus-labs-events/js/cl-events.js?ver=6.9.4" id="cl-plugin-js-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander-child/js/leaflet.js?ver=6.9.4" id="leaflet-js-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander-child/js/pannellum.js?ver=6.9.4" id="pannellum-js"></script>
+<script type="text/javascript" src="https://kit.fontawesome.com/4962f6520a.js?ver=6.9.4" id="prefix-font-awesome-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander/style.css?ver=6.9.4" id="Icelander_Customize_Styles-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://housing.uga.edu/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://housing.uga.edu/wp-json/wp/v2/pages/663" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://housing.uga.edu/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.4" />
+<link rel="canonical" href="https://housing.uga.edu/rates/" />
+<link rel='shortlink' href='https://housing.uga.edu/?p=663' />
+
+    <!-- GOOGLE FONTS - Merriweather, Oswald: -->
+    <link href='https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans:400,400i,700,700i' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
+    <!-- FAVICON: -->
+    <link rel="icon" type="image/png" href="../../sa_images/favicon.png" />
+    <!-- GOOGLE ANALYTICS -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4SE2BEMEGL"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-4SE2BEMEGL');
+    </script>
+    <!-- UAPC -->
+    <script async="async" src="https://apply.uga.edu/ping">/**/</script>
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+        var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+        (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/6467dd17ad80445890edfab5/1h0qrf8uk';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+        })();
+        </script>
+    <!--End of Tawk.to Script-->
+
+    <!-- BELOW IS TESTING FOR ACCORDION STYLE FAQ ON MOVE IN PAGE (AND ELSEWHERE IF IT WORKS PROPERLY) -->
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        // NOTE THE SYNTAX BELOW - NO $ FIRST: 
+        jQuery( function($) {
+            $( "#accordion" ).accordion({
+                // Sets panel height to content height:
+                heightStyle: "content"
+            });
+            $( "#accordion2" ).accordion({
+                // Sets panel height to content height:
+                heightStyle: "content"
+            });
+        } );
+    </script>
+
+    
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://housing.uga.edu/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://housing.uga.edu/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script><link rel="icon" href="https://housing.uga.edu/wp-content/uploads/2019/03/cropped-logo_uga_shield-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://housing.uga.edu/wp-content/uploads/2019/03/cropped-logo_uga_shield-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://housing.uga.edu/wp-content/uploads/2019/03/cropped-logo_uga_shield-180x180.png" />
+<meta name="msapplication-TileImage" content="https://housing.uga.edu/wp-content/uploads/2019/03/cropped-logo_uga_shield-270x270.png" />
+
+</head>
+
+
+<body class="footer-layout-boxed has-intro has-navigation-mobile has-sticky-header header-layout-boxed is-singular no-js no-widgets-sidebar page page-id-663 page-layout-outdented page-template page-template-template_full_page page-template-templates page-template-templatestemplate_full_page-php site-layout-boxed wp-child-theme-icelander-child wp-singular wp-theme-icelander">
+
+<a class="skip-link screen-reader-text" href="#site-navigation">Skip to main navigation</a><a class="skip-link screen-reader-text" href="#content">Skip to main content</a><a class="skip-link screen-reader-text" href="#colophon">Skip to footer</a><div id="page" class="site">
+
+
+<header id="masthead" class="site-header">
+
+
+
+<div class="site-header-content"><div class="site-header-inner">
+
+
+<div class="site-branding">
+
+	
+	<div class="site-branding-text">
+        
+        <!-- <div id="logo-housing-header"><img src="https://odin.stuact.uga.edu/housing/sa_images/logo_housing_small.png"></div> -->
+        <div id="logo-housing-header"><a href="https://housing.uga.edu"><img src="https://housing.uga.edu/sa_images/logo_housing_small.png" alt="university housing student affairs university of georgia"></a></div>
+
+					<!-- <h2 class="screen-reader-text">Rates &#8211; University Housing</h2> -->
+			<!-- <p class="site-title"><a href="https://housing.uga.edu/" class="site-title-text" rel="home">University Housing</a></p> -->
+		
+					<!-- <p class="site-description">Student Affairs</p> -->
+		
+	</div>
+
+</div>
+
+<nav id="site-navigation" class="main-navigation" aria-label="Primary Menu">
+
+		<button id="menu-toggle" class="menu-toggle" aria-controls="menu-primary" aria-expanded="false">Menu</button>
+
+		<div id="site-navigation-container" class="main-navigation-container">
+		<div class="mobile-search-form"><form role="search" method="get" class="search-form" action="https://housing.uga.edu/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div><div class="menu"><ul id="menu-primary" class="menu-primary"><li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-36"><a href="https://housing.uga.edu/prospective-students/">Prospective Students <span class="expander" aria-hidden="true"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-8141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8141"><a href="/explore-options/?nav=ps">Explore Options</a></li>
+	<li id="menu-item-10588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10588"><a href="/visit/?nav=ps">Visit</a></li>
+	<li id="menu-item-8138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8138"><a href="/interactive-map/?nav=ps">Interactive Map</a></li>
+	<li id="menu-item-8170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8170"><a href="/living-learning-communities/?nav=ps">Living Learning Communities</a></li>
+	<li id="menu-item-11726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11726"><a href="/student-leadership/?nav=ps">Student Leadership</a></li>
+	<li id="menu-item-9313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9313"><a href="/residential-curriculum/?nav=ps">Dawg Path</a></li>
+</ul>
+</li>
+<li id="menu-item-19136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19136"><a href="https://housing.uga.edu/new-student-hub/">Incoming Students <span class="expander" aria-hidden="true"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-10582" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10582"><a href="/register/?nav=is">Register For Housing</a></li>
+	<li id="menu-item-15530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15530"><a href="https://housing.uga.edu/new-student-hub/">New Student Hub</a></li>
+	<li id="menu-item-10510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10510"><a href="https://policy.uga.edu/policies/#/programs/rJSgyRAvA">First-Year Live-On Requirement</a></li>
+	<li id="menu-item-8142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8142"><a href="/explore-options/?nav=is">Explore Options</a></li>
+	<li id="menu-item-10585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10585"><a href="/visit/?nav=is">Visit</a></li>
+	<li id="menu-item-8140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8140"><a href="/interactive-map/?nav=is">Interactive Map</a></li>
+	<li id="menu-item-8171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8171"><a href="/living-learning-communities/?nav=is">Living Learning Communities</a></li>
+	<li id="menu-item-11727" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11727"><a href="/student-leadership/?nav=is">Student Leadership</a></li>
+	<li id="menu-item-10586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10586"><a href="/residential-curriculum/?nav=is">Dawg Path</a></li>
+	<li id="menu-item-10587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10587"><a href="/community-guide/?nav=is">Community Guide</a></li>
+	<li id="menu-item-8147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8147"><a href="/contract/?nav=is">Housing Contract</a></li>
+	<li id="menu-item-10592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10592"><a href="/security/?nav=is">Security</a></li>
+	<li id="menu-item-10591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10591"><a href="/student-wellbeing/?nav=is">Student Well-being</a></li>
+	<li id="menu-item-10593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10593"><a href="/move-in/?nav=is">Move In</a></li>
+	<li id="menu-item-9314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9314"><a href="/communication-archive/?nav=is">Communication Archive</a></li>
+	<li id="menu-item-10612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10612"><a href="/accommodations/?nav=is">Accommodations</a></li>
+</ul>
+</li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-142"><a href="https://housing.uga.edu/current-students/">Current Students <span class="expander" aria-hidden="true"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-10594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10594"><a href="/register/?nav=cs">Register For Housing</a></li>
+	<li id="menu-item-10595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10595"><a href="/explore-options/?nav=cs">Explore Options</a></li>
+	<li id="menu-item-10596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10596"><a href="/interactive-map/?nav=cs">Interactive Map</a></li>
+	<li id="menu-item-10597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10597"><a href="/living-learning-communities/?nav=cs">Living Learning Communities</a></li>
+	<li id="menu-item-11728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11728"><a href="/student-leadership/?nav=cs">Student Leadership</a></li>
+	<li id="menu-item-10598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10598"><a href="/residential-curriculum/?nav=cs">Dawg Path</a></li>
+	<li id="menu-item-10599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10599"><a href="/community-guide/?nav=cs">Community Guide</a></li>
+	<li id="menu-item-8148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8148"><a href="/contract/?nav=cs">Housing Contract</a></li>
+	<li id="menu-item-10600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10600"><a href="/security/?nav=cs">Security</a></li>
+	<li id="menu-item-10601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10601"><a href="/student-wellbeing/?nav=cs">Student Well-being</a></li>
+	<li id="menu-item-10602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10602"><a href="/move-in/?nav=cs">Move In</a></li>
+	<li id="menu-item-9310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9310"><a href="https://housing.uga.edu/breaks-and-move-out/">Breaks And Move Out</a></li>
+	<li id="menu-item-10603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10603"><a href="/communication-archive/?nav=cs">Communication Archive</a></li>
+	<li id="menu-item-10611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10611"><a href="/accommodations/?nav=cs">Accommodations</a></li>
+	<li id="menu-item-19237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19237"><a href="https://offcampushousing.uga.edu/listing">Off-Campus Housing</a></li>
+</ul>
+</li>
+<li id="menu-item-8117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8117"><a href="https://housing.uga.edu/conferences/">Camps and Conferences <span class="expander" aria-hidden="true"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-16315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16315"><a href="https://housing.uga.edu/conferences/general-infomation/">General Information</a></li>
+	<li id="menu-item-8118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8118"><a href="https://housing.uga.edu/conferences/planning-your-stay/">Planning Your Stay</a></li>
+	<li id="menu-item-16318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16318"><a href="https://housing.uga.edu/conferences/planning-timeline/">Planning Timeline</a></li>
+	<li id="menu-item-16312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16312"><a href="https://housing.uga.edu/conferences/reservation-requests/">Reservation Requests</a></li>
+	<li id="menu-item-17500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17500"><a href="https://housing.uga.edu/conferences/check-in-and-check-out/">Check In and Check Out</a></li>
+	<li id="menu-item-8119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8119"><a href="https://housing.uga.edu/conferences/hosting-your-group-on-campus/">Your On-Campus Stay</a></li>
+	<li id="menu-item-8120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8120"><a href="https://housing.uga.edu/conferences/after-your-event/">After Your Event</a></li>
+	<li id="menu-item-8121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8121"><a href="https://housing.uga.edu/conferences/policies/">Camps and Conferences Policies and Expectations</a></li>
+</ul>
+</li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38"><a href="https://housing.uga.edu/about-us/">About Us <span class="expander" aria-hidden="true"></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1033"><a href="https://housing.uga.edu/about-us/community-contacts/">Community Contacts</a></li>
+	<li id="menu-item-7382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7382"><a href="https://housing.uga.edu/about-us/staff-directory/">Staff Directory</a></li>
+	<li id="menu-item-8139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8139"><a href="/housing/interactive-map/?nav=au">Interactive Map</a></li>
+	<li id="menu-item-12036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12036"><a href="https://housing.uga.edu/about-us/employment/">Work For Housing</a></li>
+	<li id="menu-item-1069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069"><a href="https://housing.uga.edu/about-us/history/">History</a></li>
+	<li id="menu-item-8126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8126"><a href="https://housing.uga.edu/about-us/scholarships/">Scholarships</a></li>
+	<li id="menu-item-8125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8125"><a href="https://housing.uga.edu/about-us/sustainability/">Sustainability</a></li>
+	<li id="menu-item-1068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1068"><a href="https://housing.uga.edu/about-us/alumni/">Alumni and Friends</a></li>
+</ul>
+</li>
+<li class="menu-toggle-skip-link-container"><a href="#menu-toggle" class="menu-toggle-skip-link">Skip to menu toggle button</a></li></ul></div>	</div>
+
+</nav>
+
+
+</div></div>
+
+
+<div class="header-widgets-container">
+
+	<aside id="header-widgets" class="widget-area header-widgets" aria-label="Header widgets">
+
+		<section id="text-3" class="widget widget_text"><h2 class="widget-title">Header Widgets</h2>			<div class="textwidget"><p><a href="https://www.uga.edu/">University of Georgia</a>                   <span class="headerDate">June 10, 2026</span</p>
+</div>
+		</section><section id="text-4" class="widget widget_text">			<div class="textwidget"><p><a href='https://uga.starrezhousing.com/StarRezPortalX/Login'>The Dawg House</a> • <a href="https://sso.uga.edu/cas/login?service=https%3a%2f%2fpin.housing.uga.edu%2fhousing%2fhome">PIN</a> • <a href="https://workrequest.housing.uga.edu/">Work Request</a> • <a href="/?s=">Search</a></p>
+</div>
+		</section>
+	</aside>
+
+</div>
+
+
+</header>
+
+
+
+<div id="content" class="site-content">
+<section id="intro-container" class="entry-header intro-container">
+
+	
+	<div id="intro" class="intro"><div class="intro-inner">
+
+		<h1 class="page-title h1 intro-title">Rates</h1>
+	</div></div>
+
+	
+</section>
+
+<div class="site-content-inner">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+
+<section class="no-results not-found">
+
+        <article id="post-663" class="post-663 page type-page status-publish hentry entry">
+
+            <div class="entry-content">
+<p>Click on the table headings to sort.</p>
+
+
+<div><ul class="nav nav-tabs" role="tablist"><li role="presentation" class="active"><a href="#thisyear" aria-controls="thisyear" role="tab" data-toggle="tab">2025-26</a></li><li role="presentation"><a href="#nextyear" aria-controls="nextyear" role="tab" data-toggle="tab">2026-2027</a></li></ul><div class="tab-content"><div role="tabpanel" class="tab-pane active" id="thisyear"><table class="rates-table" id="sortable-table-allrates">
+<thead>
+<tr>
+<th>RESIDENCE</th>
+<th>ROOM TYPE</th>
+<th>FALL</th>
+<th>SPRING</th>
+<th>SUMMER</th>
+<th>MONTHLY</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href='../Black-Diallo-Miller-Hall'>Black-Diallo-Miller Hall</a></td><td>Double with bath</td><td>$3,990</td><td>$3,990</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Black-Diallo-Miller-Hall'>Black-Diallo-Miller Hall</a></td><td>Double with community bath</td><td>$3,590</td><td>$3,590</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Boggs-Hall'>Boggs Hall</a></td><td>Double with community bath</td><td>$3,490</td><td>$3,490</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Brandon-Oaks'>Brandon Oaks</a></td><td>2 bedrooms, 2 baths</td><td></td><td></td><td></td><td>$1,110</td></tr>
+<tr>
+<td><a href='../Brown-Hall'>Brown Hall</a></td><td>Single with bath</td><td>$3,507</td><td>$3,507</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Brown-Hall'>Brown Hall</a></td><td>Double in suite with bath</td><td>$2,821</td><td>$2,821</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Brown-Hall'>Brown Hall</a></td><td>Double with bath</td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td><a href='../Brumby-Hall'>Brumby Hall</a></td><td>Double with community bath</td><td>$3,490</td><td>$3,490</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Brumby-Hall'>Brumby Hall</a></td><td>Double with bath</td><td>$3,882</td><td>$3,882</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Building-1516'>Building 1516</a></td><td>Single with bath</td><td>$4,569</td><td>$4,569</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Building-1516'>Building 1516</a></td><td>Double with bath</td><td>$4,290</td><td>$4,290</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Building-2266'>Building 2266</a></td><td>Double with bath</td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td><a href='../Building-2266'>Building 2266</a></td><td>Double with community bath</td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td><a href='../Busbee-Hall'>Busbee Hall</a></td><td>4 bedrooms, 2 baths</td><td>$4,306</td><td>$4,306</td><td>$1,527</td><td></td></tr>
+<tr>
+<td><a href='../Busbee-Hall'>Busbee Hall</a></td><td>3 bedrooms, 2 baths (private bath)</td><td>$4,768</td><td>$4,768</td><td>$1,690</td><td></td></tr>
+<tr>
+<td><a href='../Busbee-Hall'>Busbee Hall</a></td><td>2 bedrooms, 1 bath</td><td>$4,532</td><td>$4,532</td><td>$1,607</td><td></td></tr>
+<tr>
+<td><a href='../Busbee-Hall'>Busbee Hall</a></td><td>2 bedrooms, 2 baths</td><td>$4,768</td><td>$4,768</td><td>$1,690</td><td></td></tr>
+<tr>
+<td><a href='../Busbee-Hall'>Busbee Hall</a></td><td>3 bedrooms, 2 baths (shared bath)</td><td>$4,532</td><td>$4,532</td><td>$1,607</td><td></td></tr>
+<tr>
+<td><a href='../Church-Hall'>Church Hall</a></td><td>Double with community bath</td><td>$3,490</td><td>$3,490</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Church-Hall'>Church Hall</a></td><td>Single with bath</td><td>$3,882</td><td>$3,882</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Creswell-Hall'>Creswell Hall</a></td><td>Double with bath</td><td>$3,800</td><td>$3,800</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Creswell-Hall'>Creswell Hall</a></td><td>Double with community bath</td><td>$3,390</td><td>$3,390</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Busbee-Hall'>Expanded Busbee Hall</a></td><td>4 beds, 2 baths (single occupancy)</td><td>$4,292</td><td>$4,292</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Busbee-Hall'>Expanded Busbee Hall</a></td><td>4 beds, 2 baths (double occupancy)</td><td>$4,002</td><td>$4,002</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-McWhorter-Hall'>Expanded McWhorter Hall</a></td><td>4 beds, 2 baths (single occupancy)</td><td>$4,292</td><td>$4,292</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-McWhorter-Hall'>Expanded McWhorter Hall</a></td><td>4 beds, 2 baths (double occupancy)</td><td>$4,002</td><td>$4,002</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Rooker-Hall'>Expanded Rooker Hall</a></td><td>4 beds, 2 baths (double occupancy)</td><td>$4,002</td><td>$4,002</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Rooker-Hall'>Expanded Rooker Hall</a></td><td>4 beds, 2 baths (single occupancy)</td><td>$4,292</td><td>$4,292</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Vandiver-Hall'>Expanded Vandiver Hall</a></td><td>4 beds, 2 baths (double occupancy)</td><td>$4,002</td><td>$4,002</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Vandiver-Hall'>Expanded Vandiver Hall</a></td><td>4 beds, 2 baths (single occupancy)</td><td>$4,292</td><td>$4,292</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Hill-Hall'>Hill Hall</a></td><td>Double with community bath</td><td>$3,490</td><td>$3,490</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Lipscomb-Hall'>Lipscomb Hall</a></td><td>Double with community bath</td><td>$3,490</td><td>$3,490</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Lipscomb-Hall'>Lipscomb Hall</a></td><td>Single with bath</td><td>$3,882</td><td>$3,882</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Mary-Lyndon-Hall'>Mary Lyndon Hall</a></td><td>Double in suite with bath</td><td>$4,089</td><td>$4,089</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Mary-Lyndon-Hall'>Mary Lyndon Hall</a></td><td>Single with community bath</td><td>$4,154</td><td>$4,154</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Mary-Lyndon-Hall'>Mary Lyndon Hall</a></td><td>Double with bath</td><td>$4,166</td><td>$4,166</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Mary-Lyndon-Hall'>Mary Lyndon Hall</a></td><td>Double with community bath</td><td>$3,741</td><td>$3,741</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Mary-Lyndon-Hall'>Mary Lyndon Hall</a></td><td>Single with bath</td><td>$4,525</td><td>$4,525</td><td></td><td></td></tr>
+<tr>
+<td><a href='../McWhorter-Hall'>McWhorter Hall</a></td><td>3 bedrooms, 2 baths (private bath)</td><td>$4,768</td><td>$4,768</td><td>$1,690</td><td></td></tr>
+<tr>
+<td><a href='../McWhorter-Hall'>McWhorter Hall</a></td><td>2 bedrooms, 1 bath</td><td>$4,532</td><td>$4,532</td><td>$1,607</td><td></td></tr>
+<tr>
+<td><a href='../McWhorter-Hall'>McWhorter Hall</a></td><td>4 bedrooms, 2 baths</td><td>$4,306</td><td>$4,306</td><td>$1,527</td><td></td></tr>
+<tr>
+<td><a href='../McWhorter-Hall'>McWhorter Hall</a></td><td>2 bedrooms, 2 baths</td><td>$4,768</td><td>$4,768</td><td>$1,690</td><td></td></tr>
+<tr>
+<td><a href='../McWhorter-Hall'>McWhorter Hall</a></td><td>3 bedrooms, 2 baths (shared bath)</td><td>$4,532</td><td>$4,532</td><td>$1,607</td><td></td></tr>
+<tr>
+<td><a href='../Mell-Hall'>Mell Hall</a></td><td>Double with community bath</td><td>$3,490</td><td>$3,490</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Morris-Hall'>Morris Hall</a></td><td>Double with community bath</td><td>$3,448</td><td>$3,448</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Single in suite with bath</td><td>$4,525</td><td>$4,525</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Single in super suite with bath</td><td>$4,401</td><td>$4,401</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Double in super suite with bath</td><td>$4,166</td><td>$4,166</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Single with community bath</td><td>$4,154</td><td>$4,154</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Double in quad with bath</td><td>$4,166</td><td>$4,166</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Double in suite with bath</td><td>$4,089</td><td>$4,089</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Double with bath</td><td>$4,356</td><td>$4,356</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Double with community bath</td><td>$3,741</td><td>$3,741</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Oglethorpe-House'>Oglethorpe House</a></td><td>Double in suite with bath</td><td>$3,587</td><td>$3,587</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Oglethorpe-House'>Oglethorpe House</a></td><td>Single in suite with bath</td><td>$4,166</td><td>$4,166</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Payne-Hall'>Payne Hall</a></td><td>Double with community bath</td><td>$3,312</td><td>$3,312</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Payne-Hall'>Payne Hall</a></td><td>Single with community bath</td><td>$3,656</td><td>$3,656</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Reed-Hall'>Reed Hall</a></td><td>Double in suite with bath</td><td>$4,089</td><td>$4,089</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Reed-Hall'>Reed Hall</a></td><td>Double in super suite with bath</td><td>$4,166</td><td>$4,166</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Reed-Hall'>Reed Hall</a></td><td>Single in suite with bath</td><td>$4,525</td><td>$4,525</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Reed-Hall'>Reed Hall</a></td><td>Double with bath</td><td>$4,166</td><td>$4,166</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Rogers-Road'>Rogers Road</a></td><td>2 bedrooms, 1 bath</td><td></td><td></td><td></td><td>$954</td></tr>
+<tr>
+<td><a href='../Rogers-Road'>Rogers Road</a></td><td>1 bedroom, 1 bath</td><td></td><td></td><td></td><td>$843</td></tr>
+<tr>
+<td><a href='../Rogers-Road'>Rogers Road</a></td><td>2 bedrooms, 1 bath</td><td></td><td></td><td></td><td>$650*</td></tr>
+<tr>
+<td><a href='../Rooker-Hall'>Rooker Hall</a></td><td>4 bedrooms, 2 baths</td><td>$4,306</td><td>$4,306</td><td>$1,527</td><td></td></tr>
+<tr>
+<td><a href='../Rooker-Hall'>Rooker Hall</a></td><td>3 bedrooms, 2 baths (shared bath)</td><td>$4,532</td><td>$4,532</td><td>$1,607</td><td></td></tr>
+<tr>
+<td><a href='../Rooker-Hall'>Rooker Hall</a></td><td>2 bedrooms, 1 bath</td><td>$4,532</td><td>$4,532</td><td>$1,607</td><td></td></tr>
+<tr>
+<td><a href='../Rooker-Hall'>Rooker Hall</a></td><td>2 bedrooms, 2 baths</td><td>$4,768</td><td>$4,768</td><td>$1,690</td><td></td></tr>
+<tr>
+<td><a href='../Rooker-Hall'>Rooker Hall</a></td><td>3 bedrooms, 2 baths (private bath)</td><td>$4,768</td><td>$4,768</td><td>$1,690</td><td></td></tr>
+<tr>
+<td><a href='../Russell-Hall'>Russell Hall</a></td><td>Double with bath</td><td>$3,882</td><td>$3,882</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Russell-Hall'>Russell Hall</a></td><td>Double with community bath</td><td>$3,490</td><td>$3,490</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Rutherford-Hall'>Rutherford Hall</a></td><td>Single with bath</td><td>$4,569</td><td>$4,569</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Rutherford-Hall'>Rutherford Hall</a></td><td>Double with bath</td><td>$4,290</td><td>$4,290</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Soule-Hall'>Soule Hall</a></td><td>Single in super suite with bath</td><td>$4,086</td><td>$4,086</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Soule-Hall'>Soule Hall</a></td><td>Double in super suite with bath</td><td>$3,693</td><td>$3,693</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Soule-Hall'>Soule Hall</a></td><td>Single with shared bath</td><td>$4,086</td><td>$4,086</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Soule-Hall'>Soule Hall</a></td><td>Double with shared bath</td><td>$3,587</td><td>$3,587</td><td></td><td></td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>2 bedrooms, 1 bath</td><td></td><td></td><td></td><td>$1,006</td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>2 bedrooms, 1 bath, 1 multipurpose/laundry room</td><td></td><td></td><td></td><td>$1,065</td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>1 bedroom, 1 bath</td><td></td><td></td><td></td><td>$843</td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>2 bedrooms, 1 bath</td><td></td><td></td><td></td><td>$954</td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>2 bedrooms, 1 bath</td><td></td><td></td><td></td><td>$650*</td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>2 bedrooms, 1 bath with in-unit laundry</td><td></td><td></td><td></td><td>$1,006</td></tr>
+<tr>
+<td><a href='../University-Village-East'>University Village East</a></td><td>1 bedroom, 1 bath (double occupancy)</td><td>$3,587</td><td>$3,587</td><td></td><td></td></tr>
+<tr>
+<td><a href='../University-Village-East'>University Village East</a></td><td>1 bedroom, 1 bath</td><td></td><td></td><td></td><td>$843</td></tr>
+<tr>
+<td><a href='../Vandiver-Hall'>Vandiver Hall</a></td><td>4 bedrooms, 2 baths</td><td>$4,306</td><td>$4,306</td><td>$1,527</td><td></td></tr>
+<tr>
+<td><a href='../Vandiver-Hall'>Vandiver Hall</a></td><td>2 bedrooms, 2 baths</td><td>$4,768</td><td>$4,768</td><td>$1,690</td><td></td></tr>
+<tr>
+<td><a href='../Vandiver-Hall'>Vandiver Hall</a></td><td>2 bedrooms, 1 bath</td><td>$4,532</td><td>$4,532</td><td>$1,607</td><td></td></tr>
+<tr>
+<td><a href='../Vandiver-Hall'>Vandiver Hall</a></td><td>3 bedrooms, 2 baths (private bath)</td><td>$4,768</td><td>$4,768</td><td>$1,690</td><td></td></tr>
+<tr>
+<td><a href='../Vandiver-Hall'>Vandiver Hall</a></td><td>3 bedrooms, 2 baths (shared bath)</td><td>$4,532</td><td>$4,532</td><td>$1,607</td><td></td></tr>
+</tbody>
+</table>
+</div>
+<div role="tabpanel" class="tab-pane" id="nextyear"><table class="rates-table" id="sortable-table-allrates-ny"><thead>
+<tr>
+<th>RESIDENCE</th>
+<th>ROOM TYPE</th>
+<th>FALL</th>
+<th>SPRING</th>
+<th>SUMMER</th>
+<th>MONTHLY</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href='../Black-Diallo-Miller-Hall'>Black-Diallo-Miller Hall</a></td><td>Double with bath</td><td>$4,189</td><td>$4,189</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Black-Diallo-Miller-Hall'>Black-Diallo-Miller Hall</a></td><td>Double with community bath</td><td>$3,769</td><td>$3,769</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Boggs-Hall'>Boggs Hall</a></td><td>Double with community bath</td><td>$3,595</td><td>$3,595</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Brandon-Oaks'>Brandon Oaks</a></td><td>2 bedrooms, 2 baths</td><td></td><td></td><td></td><td>$1,143</td></tr>
+<tr>
+<td><a href='../Brown-Hall'>Brown Hall</a></td><td>Single with bath</td><td>$3,611</td><td>$3,611</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Brown-Hall'>Brown Hall</a></td><td>Double in suite with bath</td><td>$2,906</td><td>$2,906</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Brown-Hall'>Brown Hall</a></td><td>Double with bath</td><td>$2,906</td><td>$2,906</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Brumby-Hall'>Brumby Hall</a></td><td>Double with community bath</td><td>$3,595</td><td>$3,595</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Brumby-Hall'>Brumby Hall</a></td><td>Double with bath</td><td>$3,998</td><td>$3,998</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Building-1516'>Building 1516</a></td><td>Single with bath</td><td>$4,706</td><td>$4,706</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Building-1516'>Building 1516</a></td><td>Double with bath</td><td>$4,419</td><td>$4,419</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Building-2266'>Building 2266</a></td><td>Double with bath</td><td>$4,189</td><td>$4,189</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Building-2266'>Building 2266</a></td><td>Double with community bath</td><td>$3,769</td><td>$3,769</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Busbee-Hall'>Busbee Hall</a></td><td>4 bedrooms, 2 baths</td><td>$4,436</td><td>$4,436</td><td>$1,573</td><td></td></tr>
+<tr>
+<td><a href='../Busbee-Hall'>Busbee Hall</a></td><td>3 bedrooms, 2 baths (private bath)</td><td>$4,912</td><td>$4,912</td><td>$1,741</td><td></td></tr>
+<tr>
+<td><a href='../Busbee-Hall'>Busbee Hall</a></td><td>2 bedrooms, 1 bath</td><td>$4,668</td><td>$4,668</td><td>$1,655</td><td></td></tr>
+<tr>
+<td><a href='../Busbee-Hall'>Busbee Hall</a></td><td>2 bedrooms, 2 baths</td><td>$4,912</td><td>$4,912</td><td>$1,741</td><td></td></tr>
+<tr>
+<td><a href='../Busbee-Hall'>Busbee Hall</a></td><td>3 bedrooms, 2 baths (shared bath)</td><td>$4,668</td><td>$4,668</td><td>$1,655</td><td></td></tr>
+<tr>
+<td><a href='../Church-Hall'>Church Hall</a></td><td>Double with community bath</td><td>$3,595</td><td>$3,595</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Church-Hall'>Church Hall</a></td><td>Single with bath</td><td>$3,998</td><td>$3,998</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Creswell-Hall'>Creswell Hall</a></td><td>Double with bath</td><td>$3,914</td><td>$3,914</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Creswell-Hall'>Creswell Hall</a></td><td>Double with community bath</td><td>$3,492</td><td>$3,492</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Busbee-Hall'>Expanded Busbee Hall</a></td><td>4 beds, 2 baths (single occupancy)</td><td>$4,421</td><td>$4,421</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Busbee-Hall'>Expanded Busbee Hall</a></td><td>4 beds, 2 baths (double occupancy)</td><td>$4,122</td><td>$4,122</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-McWhorter-Hall'>Expanded McWhorter Hall</a></td><td>4 beds, 2 baths (single occupancy)</td><td>$4,421</td><td>$4,421</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-McWhorter-Hall'>Expanded McWhorter Hall</a></td><td>4 beds, 2 baths (double occupancy)</td><td>$4,122</td><td>$4,122</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Rooker-Hall'>Expanded Rooker Hall</a></td><td>4 beds, 2 baths (double occupancy)</td><td>$4,122</td><td>$4,122</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Rooker-Hall'>Expanded Rooker Hall</a></td><td>4 beds, 2 baths (single occupancy)</td><td>$4,421</td><td>$4,421</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Vandiver-Hall'>Expanded Vandiver Hall</a></td><td>4 beds, 2 baths (double occupancy)</td><td>$4,122</td><td>$4,122</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Expanded-Vandiver-Hall'>Expanded Vandiver Hall</a></td><td>4 beds, 2 baths (single occupancy)</td><td>$4,421</td><td>$4,421</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Hill-Hall'>Hill Hall</a></td><td>Double with community bath</td><td>$3,595</td><td>$3,595</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Lipscomb-Hall'>Lipscomb Hall</a></td><td>Double with community bath</td><td>$3,595</td><td>$3,595</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Lipscomb-Hall'>Lipscomb Hall</a></td><td>Single with bath</td><td>$3,998</td><td>$3,998</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Mary-Lyndon-Hall'>Mary Lyndon Hall</a></td><td>Double in suite with bath</td><td>$4,212</td><td>$4,212</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Mary-Lyndon-Hall'>Mary Lyndon Hall</a></td><td>Single with community bath</td><td>$4,279</td><td>$4,279</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Mary-Lyndon-Hall'>Mary Lyndon Hall</a></td><td>Double with bath</td><td>$4,291</td><td>$4,291</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Mary-Lyndon-Hall'>Mary Lyndon Hall</a></td><td>Double with community bath</td><td>$3,853</td><td>$3,853</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Mary-Lyndon-Hall'>Mary Lyndon Hall</a></td><td>Single with bath</td><td>$4,661</td><td>$4,661</td><td></td><td></td></tr>
+<tr>
+<td><a href='../McWhorter-Hall'>McWhorter Hall</a></td><td>3 bedrooms, 2 baths (private bath)</td><td>$4,912</td><td>$4,912</td><td>$1,741</td><td></td></tr>
+<tr>
+<td><a href='../McWhorter-Hall'>McWhorter Hall</a></td><td>2 bedrooms, 1 bath</td><td>$4,668</td><td>$4,668</td><td>$1,655</td><td></td></tr>
+<tr>
+<td><a href='../McWhorter-Hall'>McWhorter Hall</a></td><td>4 bedrooms, 2 baths</td><td>$4,436</td><td>$4,436</td><td>$1,573</td><td></td></tr>
+<tr>
+<td><a href='../McWhorter-Hall'>McWhorter Hall</a></td><td>2 bedrooms, 2 baths</td><td>$4,912</td><td>$4,912</td><td>$1,741</td><td></td></tr>
+<tr>
+<td><a href='../McWhorter-Hall'>McWhorter Hall</a></td><td>3 bedrooms, 2 baths (shared bath)</td><td>$4,668</td><td>$4,668</td><td>$1,655</td><td></td></tr>
+<tr>
+<td><a href='../Mell-Hall'>Mell Hall</a></td><td>Double with community bath</td><td>$3,595</td><td>$3,595</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Morris-Hall'>Morris Hall</a></td><td>Double with community bath</td><td>$3,551</td><td>$3,551</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Single in suite with bath</td><td>$4,661</td><td>$4,661</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Single in super suite with bath</td><td>$4,532</td><td>$4,532</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Double in super suite with bath</td><td>$4,291</td><td>$4,291</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Single with community bath</td><td>$4,279</td><td>$4,279</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Double in quad with bath</td><td>$4,291</td><td>$4,291</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Double in suite with bath</td><td>$4,212</td><td>$4,212</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Double with bath</td><td>$4,487</td><td>$4,487</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Myers-Hall'>Myers Hall</a></td><td>Double with community bath</td><td>$3,853</td><td>$3,853</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Oglethorpe-House'>Oglethorpe House</a></td><td>Double in suite with bath</td><td>$3,696</td><td>$3,696</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Oglethorpe-House'>Oglethorpe House</a></td><td>Single in suite with bath</td><td>$4,291</td><td>$4,291</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Payne-Hall'>Payne Hall</a></td><td>Double with community bath</td><td>$3,411</td><td>$3,411</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Payne-Hall'>Payne Hall</a></td><td>Single with community bath</td><td>$3,766</td><td>$3,766</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Reed-Hall'>Reed Hall</a></td><td>Double in suite with bath</td><td>$4,212</td><td>$4,212</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Reed-Hall'>Reed Hall</a></td><td>Double in super suite with bath</td><td>$4,291</td><td>$4,291</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Reed-Hall'>Reed Hall</a></td><td>Single in suite with bath</td><td>$4,661</td><td>$4,661</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Reed-Hall'>Reed Hall</a></td><td>Double with bath</td><td>$4,291</td><td>$4,291</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Rogers-Road'>Rogers Road</a></td><td>2 bedrooms, 1 bath</td><td></td><td></td><td></td><td>$982</td></tr>
+<tr>
+<td><a href='../Rogers-Road'>Rogers Road</a></td><td>1 bedroom, 1 bath</td><td></td><td></td><td></td><td>$868</td></tr>
+<tr>
+<td><a href='../Rogers-Road'>Rogers Road</a></td><td>2 bedrooms, 1 bath</td><td></td><td></td><td></td><td>$669*</td></tr>
+<tr>
+<td><a href='../Rooker-Hall'>Rooker Hall</a></td><td>4 bedrooms, 2 baths</td><td>$4,436</td><td>$4,436</td><td>$1,573</td><td></td></tr>
+<tr>
+<td><a href='../Rooker-Hall'>Rooker Hall</a></td><td>3 bedrooms, 2 baths (shared bath)</td><td>$4,668</td><td>$4,668</td><td>$1,655</td><td></td></tr>
+<tr>
+<td><a href='../Rooker-Hall'>Rooker Hall</a></td><td>2 bedrooms, 1 bath</td><td>$4,668</td><td>$4,668</td><td>$1,655</td><td></td></tr>
+<tr>
+<td><a href='../Rooker-Hall'>Rooker Hall</a></td><td>2 bedrooms, 2 baths</td><td>$4,912</td><td>$4,912</td><td>$1,741</td><td></td></tr>
+<tr>
+<td><a href='../Rooker-Hall'>Rooker Hall</a></td><td>3 bedrooms, 2 baths (private bath)</td><td>$4,912</td><td>$4,912</td><td>$1,741</td><td></td></tr>
+<tr>
+<td><a href='../Russell-Hall'>Russell Hall</a></td><td>Double with bath</td><td>$3,998</td><td>$3,998</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Russell-Hall'>Russell Hall</a></td><td>Double with community bath</td><td>$3,595</td><td>$3,595</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Rutherford-Hall'>Rutherford Hall</a></td><td>Single with bath</td><td>$4,706</td><td>$4,706</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Rutherford-Hall'>Rutherford Hall</a></td><td>Double with bath</td><td>$4,419</td><td>$4,419</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Soule-Hall'>Soule Hall</a></td><td>Single in super suite with bath</td><td>$4,208</td><td>$4,208</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Soule-Hall'>Soule Hall</a></td><td>Double in super suite with bath</td><td>$3,804</td><td>$3,804</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Soule-Hall'>Soule Hall</a></td><td>Single with shared bath</td><td>$4,208</td><td>$4,208</td><td></td><td></td></tr>
+<tr>
+<td><a href='../Soule-Hall'>Soule Hall</a></td><td>Double with shared bath</td><td>$3,696</td><td>$3,696</td><td></td><td></td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>2 bedrooms, 1 bath</td><td></td><td></td><td></td><td>$1,036</td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>2 bedrooms, 1 bath, 1 multipurpose/laundry room</td><td></td><td></td><td></td><td>$1,096</td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>1 bedroom, 1 bath</td><td></td><td></td><td></td><td>$868</td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>2 bedrooms, 1 bath</td><td></td><td></td><td></td><td>$982</td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>2 bedrooms, 1 bath</td><td></td><td></td><td></td><td>$981</td></tr>
+<tr>
+<td><a href='../University-Village'>University Village</a></td><td>2 bedrooms, 1 bath with in-unit laundry</td><td></td><td></td><td></td><td>$1,036</td></tr>
+<tr>
+<td><a href='../University-Village-East'>University Village East</a></td><td>1 bedroom, 1 bath (double occupancy)</td><td>$3,696</td><td>$3,696</td><td></td><td></td></tr>
+<tr>
+<td><a href='../University-Village-East'>University Village East</a></td><td>1 bedroom, 1 bath</td><td></td><td></td><td></td><td>$868</td></tr>
+<tr>
+<td><a href='../Vandiver-Hall'>Vandiver Hall</a></td><td>4 bedrooms, 2 baths</td><td>$4,436</td><td>$4,436</td><td>$1,573</td><td></td></tr>
+<tr>
+<td><a href='../Vandiver-Hall'>Vandiver Hall</a></td><td>2 bedrooms, 2 baths</td><td>$4,912</td><td>$4,912</td><td>$1,741</td><td></td></tr>
+<tr>
+<td><a href='../Vandiver-Hall'>Vandiver Hall</a></td><td>2 bedrooms, 1 bath</td><td>$4,668</td><td>$4,668</td><td>$1,655</td><td></td></tr>
+<tr>
+<td><a href='../Vandiver-Hall'>Vandiver Hall</a></td><td>3 bedrooms, 2 baths (private bath)</td><td>$4,912</td><td>$4,912</td><td>$1,741</td><td></td></tr>
+<tr>
+<td><a href='../Vandiver-Hall'>Vandiver Hall</a></td><td>3 bedrooms, 2 baths (shared bath)</td><td>$4,668</td><td>$4,668</td><td>$1,655</td><td></td></tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="small-text">Current rates are per resident per term, include a programming fee and have been approved by the University System of Georgia Board of Regents.</p>
+</div>
+
+        </article>
+
+
+</section>
+
+
+		</main><!-- /#main -->
+	</div><!-- /#primary -->
+</div><!-- /.site-content-inner -->
+</div><!-- /#content -->
+
+
+
+<footer id="colophon" class="site-footer">
+
+
+<div class="site-footer-area footer-area-footer-widgets">
+	<div class="footer-widgets-inner site-footer-area-inner">
+
+		<aside id="footer-widgets" class="widget-area footer-widgets" aria-label="Footer widgets">
+
+			<section id="text-5" class="widget widget_text"><h2 class="widget-title">Contact</h2>			<div class="textwidget"><p><a href="https://workrequest.housing.uga.edu/">Submit A Work Request</a></p>
+<p><a href="https://studentcomplaints.uga.edu/">Student Complaints</a></p>
+<p>UGA University Housing<br />
+<a href="https://goo.gl/maps/xkh1c3SMun72">515 Baxter Street</a><br />
+<a href="https://goo.gl/maps/xkh1c3SMun72">Athens, GA 30602</a></p>
+<p><a href="mailto:housing@uga.edu">Email University Housing: housing@uga.edu</a></p>
+<p>Telephone: 706-542-1421</p>
+</div>
+		</section><section id="text-6" class="widget widget_text"><h2 class="widget-title">Further Afield</h2>			<div class="textwidget"><p><a href="https://uga.edu">University of Georgia</a></p>
+<p><a href="/housing/rha/">Residence Hall Association</a></p>
+<p><a href="/housing/nrhh/">National Residence Hall Honorary</a></p>
+<p><a href="https://studentaffairs.uga.edu/">UGA Student Affairs</a></p>
+</div>
+		</section><section id="text-7" class="widget widget_text"><h2 class="widget-title">Stay Involved</h2>			<div class="textwidget"><p><a href="https://gail.uga.edu/commit?search=university%20housing&amp;utm_source=gen_link&amp;utm_campaign=giving">Commit to Georgia</a> &#8211; Each gift has an impact.</p>
+</div>
+		</section><section id="text-8" class="widget widget_text"><h2 class="widget-title">Social Media</h2>			<div class="textwidget"><p><a href="https://housing.uga.edu/dawg-blog/">Dawg Blog</a></p>
+<p><a href="https://www.facebook.com/ugahousing">Facebook</a></p>
+<p><a href="https://www.instagram.com/ugahousing/">Instagram</a></p>
+<p><a href="https://www.pinterest.com/ugahousing/">Pinterest</a></p>
+<p><a href="https://www.tiktok.com/@ugahousing">TikTok</a></p>
+<p><a href="https://www.youtube.com/user/housinguga">YouTube</a></p>
+<p><a href="https://twitter.com/ugahousing">X</a></p>
+</div>
+		</section>
+		</aside>
+
+	</div>
+</div>
+
+<div class="site-footer-area footer-area-site-info">
+	<div class="site-footer-area-inner site-info-inner">
+
+		
+		<div class="site-info">
+			
+				&copy; 2026 <a href="https://housing.uga.edu/">University Housing</a>
+            <span class="sep"> | </span> <span class="sep"><a href="/housing/glossary/">Glossary</a> | </span> <span class="sep"><a href="https://outlookuga.sharepoint.com/sites/HSG-StaffResources/SitePages/staff-portal-home.aspx">Staff Links</a> | </span> <span class="sep"><a href="https://uga.teamdynamix.com/TDClient/2060/Portal/Requests/TicketRequests/NewForm?ID=1NwKblCPRsA_&RequestorType=Service">Staff IT Requests</a> | </span> <span class="sep"><a href="https://uga.teamdynamix.com/TDClient/2060/Portal/Requests/TicketRequests/NewForm?ID=fU3hcq48s1A_&RequestorType=Service">StarRez Support Requests</a> | </span> <span class="sep"><a href="https://uga.teamdynamix.com/TDClient/Requests/TicketRequests/TicketForm.aspx?ID=OzMXh4iWTZ8_" target="_blank">Website Change Requests</a> | </span>
+								<!-- <span class="sep"> | </span> -->
+				<a href="#top" id="back-to-top" class="back-to-top">Back To Top &uarr;</a>
+            
+                <br>
+                <br>
+                <p class="footer-disclaimer-smalltext">University Housing, a Division of Student Affairs, The University of Georgia. All Rights Reserved.</p>
+				<p class="footer-disclaimer-smalltext">An Equal Opportunity, Veteran, Disability Institution. <a href="https://eoo.uga.edu/civil_rights_NDAH/ndah-policy/" style="color:#555555;">Click here to learn more...</a></p>
+                <p class="footer-disclaimer-smalltext">Provisions of this site do not constitute a contract, express or implied between any applicant, student or faculty member and the University of Georgia or the University System of Georgia.</p>
+
+					</div>
+
+		
+	</div>
+</div><!-- /footer-area-site-info -->
+
+
+</footer>
+
+
+</div><!-- /#page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/icelander-child/*","/wp-content/themes/icelander/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+    <!-- TABBED TABLES -->
+    <!-- <script src="../../sa_js/plugins.js"></script> -->
+    <!-- <script src="../../sa_js/main.js"></script> -->
+    <!-- <script src="../../sa_js/bootstrap-tab.js"></script> -->
+    <!-- <script src="../../sa_js/jquery.tablesorter.js"></script> -->
+
+    <!-- TABLE SORTING JAVASCRIPT: -->
+    
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "SiteNavigationElement",
+          "position": 1,
+          "name": "Incoming Students",
+          "url": "https://housing.uga.edu/new-student-hub/"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "position": 2,
+          "name": "The Dawg House",
+          "url": "http://uga.starrezhousing.com/StarRezPortalX/Login"
+        }
+        {
+          "@type": "SiteNavigationElement",
+          "position": 3,
+          "name": "Virtual Tour",
+          "url": "https://housing.uga.edu/sa_vrtour/"
+        }
+        {
+          "@type": "SiteNavigationElement",
+          "position": 4,
+          "name": "Submit Work Request",
+          "url": "https://workrequest.housing.uga.edu/"
+        }
+      ]
+    }
+    </script>
+    <script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander-child/js/jquery-1.11.1.min.js?ver=1.1" id="jquery-1.11.1.min-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander-child/js/bootstrap-tab.js?ver=1.1" id="bootstrap-tab-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander-child/js/plugins.js?ver=1.1" id="plugins-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander-child/js/jquery.tablesorter.js?ver=1.1" id="jquery.tablesorter-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander-child/js/jquery.event.move.js?ver=1.1" id="beforeafter-jq-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander-child/js/jquery.twentytwenty.js?ver=1.1" id="beforeafter-twentytwenty-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander-child/js/timeline-main.js?ver=1.1" id="timeline-main-js"></script>
+<script type="text/javascript" id="icelander-skip-link-focus-fix-js-extra">
+/* <![CDATA[ */
+var $icelanderBreakpoints = {"s":"448","m":"672","l":"880","xl":"1280","xxl":"1600","xxxl":"1920","xxxxl":"2560"};
+//# sourceURL=icelander-skip-link-focus-fix-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander/assets/js/skip-link-focus-fix.js?ver=1.4.0" id="icelander-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander/assets/js/scripts-navigation-accessibility.js?ver=1.4.0" id="icelander-scripts-nav-a11y-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander/assets/js/scripts-navigation-mobile.js?ver=1.4.0" id="icelander-scripts-nav-mobile-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander/assets/js/vendors/scroll-watch/jquery.scroll-watch.js?ver=1.4.0" id="jquery-scroll-watch-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander/assets/js/vendors/fitvids/jquery.fitvids.js?ver=1.4.0" id="jquery-fitvids-js"></script>
+<script type="text/javascript" src="https://housing.uga.edu/wp-content/themes/icelander/assets/js/scripts-global.js?ver=1.4.0" id="icelander-scripts-global-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://housing.uga.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://housing.uga.edu/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+<script>window.jQuery || document.write("<script src='js/jquery-1.11.1.min.js'>\x3C/script>")</script>
+
+<script>
+
+        
+        $(document).ready(function() 
+        { 
+            /* Makes sortableTable sortable, with parser for currency column: */
+            $("#sortable-table-rates").tablesorter({
+                headers: {
+                    2: {sorter:'money'},
+                    3: {sorter:'money'}
+                }
+            }
+            );
+            
+            /* Makes sortable-table-standard sortable: */
+            $("#sortable-table-standard").tablesorter();
+            
+            /* For all rates table: */
+
+            $("#sortable-table-allrates").tablesorter({
+                headers: {
+                    3: {sorter:'money'},
+                    4: {sorter:'money'},
+                    5: {sorter:'money'},
+                    6: {sorter:'money'},
+                    7: {sorter:'money'},
+                    8: {sorter:'money'},
+                    9: {sorter:'money'},
+                    10: {sorter:'money'},
+                    11: {sorter:'money'},
+                    12: {sorter:'money'},
+                    13: {sorter:'money'}
+                },
+            }
+            );
+            
+            $("#sortable-table-allrates-ny").tablesorter({
+                headers: {
+                    3: {sorter:'money'},
+                    4: {sorter:'money'},
+                    5: {sorter:'money'},
+                    6: {sorter:'money'},
+                    7: {sorter:'money'}
+                },
+            }
+            );
+        } 
+    );
+</script>
+
+				</footer>
+				<footer class="ugafooter">
+      <div class="ugafooter__container">
+        <div class="ugafooter__row ugafooter__row--primary">
+          <div class="ugafooter__logo">
+            <a class="ugafooter__logo-link" href="https://www.uga.edu/"
+              >University of Georgia</a
+            >
+          </div>
+          <nav class="ugafooter__links">
+            <ul class="ugafooter__links-list">
+              <li class="ugafooter__links-list-item">
+                <a
+                  class="ugafooter__links-list-link"
+                  href="https://www.uga.edu/schools"
+                  >Schools and Colleges</a
+                >
+              </li>
+              <li class="ugafooter__links-list-item">
+                <a
+                  class="ugafooter__links-list-link"
+                  href="https://peoplesearch.uga.edu/"
+                  >Directory</a
+                >
+              </li>
+              <li class="ugafooter__links-list-item">
+                <a class="ugafooter__links-list-link" href="https://my.uga.edu/"
+                  >MyUGA</a
+                >
+              </li>
+              <li class="ugafooter__links-list-item">
+                <a
+                  class="ugafooter__links-list-link"
+                  href="http://hr.uga.edu/applicants/"
+                  >Employment Opportunities</a
+                >
+              </li>
+              <li class="ugafooter__links-list-item">
+                <a
+                  class="ugafooter__links-list-link"
+                  href="https://mc.uga.edu/policy/trademark"
+                  >Copyright and Trademarks</a
+                >
+              </li>
+              <li class="ugafooter__links-list-item">
+                <a 
+                  class="ugafooter__links-list-link"
+                  href="https://uga.teamdynamix.com/TDClient/3190/eitsclientportal/Requests/TicketRequests/NewForm?ID=7tC59R-FSCY_&RequestorType=Service"
+                >
+                  Report an Accessibility Barrier
+                </a>
+              </li>
+              <li class="ugafooter__links-list-item">
+                <a
+                  class="ugafooter__links-list-link"
+                  href="https://eits.uga.edu/access_and_security/infosec/pols_regs/policies/privacy/"
+                  >Privacy</a
+                >
+              </li>
+            </ul>
+          </nav>
+        </div>
+        <div class="ugafooter__row ugafooter__row--secondary">
+          <nav class="ugafooter__social">
+            <span class="ugafooter__social-label">#UGA on</span>
+            <a
+              class="ugafooter__social-link"
+              aria-label="UGA on Facebook"
+              href="https://www.facebook.com/universityofga/"
+            >
+              <i
+                class="fab fa-fw fa-facebook-f"
+                title="Facebook"
+                aria-hidden
+              ></i>
+            </a>
+            <a
+              class="ugafooter__social-link"
+              aria-label="UGA on Twitter"
+              href="https://twitter.com/universityofga"
+            >
+              <i class="fab fa-fw fa-x-twitter" title="Twitter" aria-hidden></i>
+            </a>
+            <a
+              class="ugafooter__social-link"
+              aria-label="UGA on Instagram"
+              href="https://www.instagram.com/universityofga/"
+            >
+              <i
+                class="fab fa-fw fa-instagram"
+                title="Instagram"
+                aria-hidden
+              ></i>
+            </a>
+            <a
+              class="ugafooter__social-link"
+              aria-label="UGA on YouTube"
+              href="https://www.youtube.com/user/UniversityOfGeorgia"
+            >
+              <i class="fab fa-fw fa-youtube" title="YouTube" aria-hidden></i>
+            </a>
+            <a
+              class="ugafooter__social-link"
+              aria-label="UGA on LinkedIn"
+              href="https://www.linkedin.com/school/university-of-georgia/"
+            >
+              <i
+                class="fab fa-fw fa-linkedin-in"
+                title="LinkedIn"
+                aria-hidden
+              ></i>
+            </a>
+          </nav>
+          <div class="ugafooter__address">
+            University of Georgia&reg; <br />
+            Athens, GA 30602<br />
+            <a class="ugafooter__address-telephone" href="tel:7065423000"
+              >706&#8209;542&#8209;3000</a
+            >
+          </div>
+        </div>
+      </div>
+    </footer>
+
+</body>
+
+</html>

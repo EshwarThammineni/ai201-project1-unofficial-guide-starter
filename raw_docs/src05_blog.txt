@@ -1,0 +1,1718 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Where to Live at the University of Georgia: Housing Options for The Bu &ndash; CAPGOWN</title><link rel="canonical" href="https://capgown.com/blogs/best-of/where-to-live-at-the-university-of-georgia-housing-options-for-the-bulldogs-community"><link rel="icon" href="//capgown.com/cdn/shop/files/CAPGOWN_-_Wreath_Icon_-_Favicon_-_dark_grey_180_x_180_px.png?crop=center&height=48&v=1771964644&width=48" type="image/png">
+  <link rel="apple-touch-icon" href="//capgown.com/cdn/shop/files/CAPGOWN_-_Wreath_Icon_-_Favicon_-_dark_grey_180_x_180_px.png?crop=center&height=180&v=1771964644&width=180"><meta name="description" content="Explore University of Georgia housing options for undergraduate and graduate students. Compare amenities, locations, and real student experiences across the Bulldog community."><meta property="og:site_name" content="CAPGOWN">
+<meta property="og:url" content="https://capgown.com/blogs/best-of/where-to-live-at-the-university-of-georgia-housing-options-for-the-bulldogs-community">
+<meta property="og:title" content="Where to Live at the University of Georgia: Housing Options for The Bu">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Explore University of Georgia housing options for undergraduate and graduate students. Compare amenities, locations, and real student experiences across the Bulldog community."><meta property="og:image" content="http://capgown.com/cdn/shop/articles/Best_Dorms_-_University_of_Georgia_webp_792fb0d2-d501-46ee-ad43-c7d55ebb8e12.jpg?crop=center&height=1200&v=1755739296&width=1200">
+  <meta property="og:image:secure_url" content="https://capgown.com/cdn/shop/articles/Best_Dorms_-_University_of_Georgia_webp_792fb0d2-d501-46ee-ad43-c7d55ebb8e12.jpg?crop=center&height=1200&v=1755739296&width=1200">
+  <meta property="og:image:width" content="1400">
+  <meta property="og:image:height" content="800"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Where to Live at the University of Georgia: Housing Options for The Bu">
+<meta name="twitter:description" content="Explore University of Georgia housing options for undergraduate and graduate students. Compare amenities, locations, and real student experiences across the Bulldog community.">
+<style>@font-face {
+  font-family: Figtree;
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//capgown.com/cdn/fonts/figtree/figtree_n4.3c0838aba1701047e60be6a99a1b0a40ce9b8419.woff2") format("woff2"),
+       url("//capgown.com/cdn/fonts/figtree/figtree_n4.c0575d1db21fc3821f17fd6617d3dee552312137.woff") format("woff");
+}
+@font-face {
+  font-family: Figtree;
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//capgown.com/cdn/fonts/figtree/figtree_n7.2fd9bfe01586148e644724096c9d75e8c7a90e55.woff2") format("woff2"),
+       url("//capgown.com/cdn/fonts/figtree/figtree_n7.ea05de92d862f9594794ab281c4c3a67501ef5fc.woff") format("woff");
+}
+@font-face {
+  font-family: Figtree;
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//capgown.com/cdn/fonts/figtree/figtree_n5.3b6b7df38aa5986536945796e1f947445832047c.woff2") format("woff2"),
+       url("//capgown.com/cdn/fonts/figtree/figtree_n5.f26bf6dcae278b0ed902605f6605fa3338e81dab.woff") format("woff");
+}
+@font-face {
+  font-family: Figtree;
+  font-weight: 400;
+  font-style: italic;
+  font-display: fallback;
+  src: url("//capgown.com/cdn/fonts/figtree/figtree_i4.89f7a4275c064845c304a4cf8a4a586060656db2.woff2") format("woff2"),
+       url("//capgown.com/cdn/fonts/figtree/figtree_i4.6f955aaaafc55a22ffc1f32ecf3756859a5ad3e2.woff") format("woff");
+}
+@font-face {
+  font-family: Figtree;
+  font-weight: 700;
+  font-style: italic;
+  font-display: fallback;
+  src: url("//capgown.com/cdn/fonts/figtree/figtree_i7.06add7096a6f2ab742e09ec7e498115904eda1fe.woff2") format("woff2"),
+       url("//capgown.com/cdn/fonts/figtree/figtree_i7.ee584b5fcaccdbb5518c0228158941f8df81b101.woff") format("woff");
+}
+@font-face {
+  font-family: Figtree;
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//capgown.com/cdn/fonts/figtree/figtree_n7.2fd9bfe01586148e644724096c9d75e8c7a90e55.woff2") format("woff2"),
+       url("//capgown.com/cdn/fonts/figtree/figtree_n7.ea05de92d862f9594794ab281c4c3a67501ef5fc.woff") format("woff");
+}
+@font-face {
+  font-family: Figtree;
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//capgown.com/cdn/fonts/figtree/figtree_n7.2fd9bfe01586148e644724096c9d75e8c7a90e55.woff2") format("woff2"),
+       url("//capgown.com/cdn/fonts/figtree/figtree_n7.ea05de92d862f9594794ab281c4c3a67501ef5fc.woff") format("woff");
+}
+@font-face {
+  font-family: Figtree;
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//capgown.com/cdn/fonts/figtree/figtree_n4.3c0838aba1701047e60be6a99a1b0a40ce9b8419.woff2") format("woff2"),
+       url("//capgown.com/cdn/fonts/figtree/figtree_n4.c0575d1db21fc3821f17fd6617d3dee552312137.woff") format("woff");
+}
+@font-face {
+  font-family: Figtree;
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//capgown.com/cdn/fonts/figtree/figtree_n6.9d1ea52bb49a0a86cfd1b0383d00f83d3fcc14de.woff2") format("woff2"),
+       url("//capgown.com/cdn/fonts/figtree/figtree_n6.f0fcdea525a0e47b2ae4ab645832a8e8a96d31d3.woff") format("woff");
+}
+:root {
+  --page-container-width:          1480px;
+  --reading-container-width:       720px;
+  --divider-opacity:               0.14;
+  --gutter-large:                  30px;
+  --gutter-desktop:                20px;
+  --gutter-mobile:                 16px;
+  --section-padding:               50px;
+  --larger-section-padding:        80px;
+  --larger-section-padding-mobile: 60px;
+  --largest-section-padding:       110px;
+  --aos-animate-duration:          0.6s;
+
+  --base-font-family:              Figtree, sans-serif;
+  --base-font-weight:              400;
+  --base-font-style:               normal;
+  --heading-font-family:           Figtree, sans-serif;
+  --heading-font-weight:           700;
+  --heading-font-style:            normal;
+  --heading-font-letter-spacing:   normal;
+  --logo-font-family:              Figtree, sans-serif;
+  --logo-font-weight:              700;
+  --logo-font-style:               normal;
+  --nav-font-family:               Figtree, sans-serif;
+  --nav-font-weight:               400;
+  --nav-font-style:                normal;
+
+  --base-text-size:15px;
+  --base-line-height:              1.6;
+  --input-text-size:16px;
+  --smaller-text-size-1:12px;
+  --smaller-text-size-2:14px;
+  --smaller-text-size-3:12px;
+  --smaller-text-size-4:11px;
+  --larger-text-size:24px;
+  --super-large-text-size:42px;
+  --super-large-mobile-text-size:19px;
+  --larger-mobile-text-size:19px;
+  --logo-text-size:24px;--btn-letter-spacing: normal;
+    --btn-text-transform: none;
+    --button-text-size: 15px;
+    --quickbuy-button-text-size: 14px;
+    --small-feature-link-font-size: 1em;
+    --input-btn-padding-top: 13px;
+    --input-btn-padding-bottom: 13px;--heading-text-transform:none;
+  --nav-text-size:                      13px;
+  --mobile-menu-font-weight:            600;
+
+  --body-bg-color:                      255 255 255;
+  --bg-color:                           255 255 255;
+  --body-text-color:                    0 0 0;
+  --text-color:                         0 0 0;
+
+  --header-text-col:                    #171717;--header-text-hover-col:             var(--main-nav-link-hover-col);--header-bg-col:                     #ffffff;
+  --heading-color:                     23 23 23;
+  --body-heading-color:                23 23 23;
+  --heading-divider-col:               #dfe3e8;
+
+  --logo-col:                          #171717;
+  --main-nav-bg:                       #ffffff;
+  --main-nav-link-col:                 #000000;
+  --main-nav-link-hover-col:           #000000;
+  --main-nav-link-featured-col:        #000000;
+
+  --link-color:                        0 0 0;
+  --body-link-color:                   0 0 0;
+
+  --btn-bg-color:                        0 0 0;
+  --btn-bg-hover-color:                  112 113 115;
+  --btn-border-color:                    0 0 0;
+  --btn-border-hover-color:              112 113 115;
+  --btn-text-color:                      255 255 255;
+  --btn-text-hover-color:                255 255 255;--btn-alt-bg-color:                    255 255 255;
+  --btn-alt-text-color:                  0 0 0;
+  --btn-alt-border-color:                0 0 0;
+  --btn-alt-border-hover-color:          0 0 0;--btn-ter-bg-color:                    235 235 235;
+  --btn-ter-text-color:                  0 0 0;
+  --btn-ter-bg-hover-color:              0 0 0;
+  --btn-ter-text-hover-color:            255 255 255;--btn-border-radius: 3px;
+    --btn-inspired-border-radius: 3px;--color-scheme-default:                             #ffffff;
+  --color-scheme-default-color:                       255 255 255;
+  --color-scheme-default-text-color:                  0 0 0;
+  --color-scheme-default-head-color:                  23 23 23;
+  --color-scheme-default-link-color:                  0 0 0;
+  --color-scheme-default-btn-text-color:              255 255 255;
+  --color-scheme-default-btn-text-hover-color:        255 255 255;
+  --color-scheme-default-btn-bg-color:                0 0 0;
+  --color-scheme-default-btn-bg-hover-color:          112 113 115;
+  --color-scheme-default-btn-border-color:            0 0 0;
+  --color-scheme-default-btn-border-hover-color:      112 113 115;
+  --color-scheme-default-btn-alt-text-color:          0 0 0;
+  --color-scheme-default-btn-alt-bg-color:            255 255 255;
+  --color-scheme-default-btn-alt-border-color:        0 0 0;
+  --color-scheme-default-btn-alt-border-hover-color:  0 0 0;
+
+  --color-scheme-1:                             #f9f7f4;
+  --color-scheme-1-color:                       249 247 244;
+  --color-scheme-1-text-color:                  77 77 77;
+  --color-scheme-1-head-color:                  23 23 23;
+  --color-scheme-1-link-color:                  207 184 124;
+  --color-scheme-1-btn-text-color:              255 255 255;
+  --color-scheme-1-btn-text-hover-color:        255 255 255;
+  --color-scheme-1-btn-bg-color:                35 35 35;
+  --color-scheme-1-btn-bg-hover-color:          0 0 0;
+  --color-scheme-1-btn-border-color:            35 35 35;
+  --color-scheme-1-btn-border-hover-color:      0 0 0;
+  --color-scheme-1-btn-alt-text-color:          35 35 35;
+  --color-scheme-1-btn-alt-bg-color:            255 255 255;
+  --color-scheme-1-btn-alt-border-color:        35 35 35;
+  --color-scheme-1-btn-alt-border-hover-color:  35 35 35;
+
+  --color-scheme-2:                             #faf2e6;
+  --color-scheme-2-color:                       250 242 230;
+  --color-scheme-2-text-color:                  92 92 92;
+  --color-scheme-2-head-color:                  23 23 23;
+  --color-scheme-2-link-color:                  193 100 82;
+  --color-scheme-2-btn-text-color:              255 255 255;
+  --color-scheme-2-btn-text-hover-color:        255 255 255;
+  --color-scheme-2-btn-bg-color:                35 35 35;
+  --color-scheme-2-btn-bg-hover-color:          0 0 0;
+  --color-scheme-2-btn-border-color:            35 35 35;
+  --color-scheme-2-btn-border-hover-color:      0 0 0;
+  --color-scheme-2-btn-alt-text-color:          35 35 35;
+  --color-scheme-2-btn-alt-bg-color:            255 255 255;
+  --color-scheme-2-btn-alt-border-color:        35 35 35;
+  --color-scheme-2-btn-alt-border-hover-color:  35 35 35;
+
+  /* Shop Pay payment terms */
+  --payment-terms-background-color:    #ffffff;--quickbuy-bg: 255 255 255;--body-input-background-color:       rgb(var(--body-bg-color));
+  --input-background-color:            rgb(var(--body-bg-color));
+  --body-input-text-color:             var(--body-text-color);
+  --input-text-color:                  var(--body-text-color);
+  --body-input-border-color:           rgb(191, 191, 191);
+  --input-border-color:                rgb(191, 191, 191);
+  --input-border-color-hover:          rgb(115, 115, 115);
+  --input-border-color-active:         rgb(0, 0, 0);
+
+  --swatch-cross-svg:                  url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240' viewBox='0 0 24 24' fill='none' stroke='rgb(191, 191, 191)' stroke-width='0.09' preserveAspectRatio='none' %3E%3Cline x1='24' y1='0' x2='0' y2='24'%3E%3C/line%3E%3C/svg%3E");
+  --swatch-cross-hover:                url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240' viewBox='0 0 24 24' fill='none' stroke='rgb(115, 115, 115)' stroke-width='0.09' preserveAspectRatio='none' %3E%3Cline x1='24' y1='0' x2='0' y2='24'%3E%3C/line%3E%3C/svg%3E");
+  --swatch-cross-active:               url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240' viewBox='0 0 24 24' fill='none' stroke='rgb(0, 0, 0)' stroke-width='0.09' preserveAspectRatio='none' %3E%3Cline x1='24' y1='0' x2='0' y2='24'%3E%3C/line%3E%3C/svg%3E");
+
+  --footer-divider-col:                #817a70;
+  --footer-text-col:                   255 255 255;
+  --footer-heading-col:                129 122 112;
+  --footer-bg-col:                     28 25 25;--product-label-overlay-justify: flex-start;--product-label-overlay-align: flex-start;--product-label-overlay-reduction-text:   #ffffff;
+  --product-label-overlay-reduction-bg:     #c20000;
+  --product-label-overlay-reduction-text-weight: 600;
+  --product-label-overlay-stock-text:       #ffffff;
+  --product-label-overlay-stock-bg:         #09728c;
+  --product-label-overlay-new-text:         #ffffff;
+  --product-label-overlay-new-bg:           #c16452;
+  --product-label-overlay-meta-text:        #ffffff;
+  --product-label-overlay-meta-bg:          #bd2585;
+  --product-label-sale-text:                #c20000;
+  --product-label-sold-text:                #171717;
+  --product-label-preorder-text:            #3ea36a;
+
+  --product-block-crop-align:               center;
+
+  
+  --product-block-price-align:              flex-start;
+  --product-block-price-item-margin-start:  initial;
+  --product-block-price-item-margin-end:    .5rem;
+  
+
+  
+
+  --collection-block-image-position:   center center;
+
+  --swatch-picker-image-size:          40px;
+  --swatch-crop-align:                 center center;
+
+  --image-overlay-text-color:          255 255 255;--image-overlay-bg:                  rgba(0, 0, 0, 0.1);
+  --image-overlay-shadow-start:        rgb(0 0 0 / 0.15);
+  --image-overlay-box-opacity:         0.9;--product-inventory-ok-box-color:            #f2faf0;
+  --product-inventory-ok-text-color:           #108043;
+  --product-inventory-ok-icon-box-fill-color:  #fff;
+  --product-inventory-low-box-color:           #fcf1cd;
+  --product-inventory-low-text-color:          #dd9a1a;
+  --product-inventory-low-icon-box-fill-color: #fff;
+  --product-inventory-low-text-color-channels: 16, 128, 67;
+  --product-inventory-ok-text-color-channels:  221, 154, 26;
+
+  --rating-star-color: 0 0 0;--overlay-align-left: start;
+    --overlay-align-right: end;}html[dir=rtl] {
+  --overlay-right-text-m-left: 0;
+  --overlay-right-text-m-right: auto;
+  --overlay-left-shadow-left-left: 15%;
+  --overlay-left-shadow-left-right: -50%;
+  --overlay-left-shadow-right-left: -85%;
+  --overlay-left-shadow-right-right: 0;
+}.image-overlay--bg-box .text-overlay .text-overlay__text {
+    --image-overlay-box-bg: 255 255 255;
+    --heading-color: var(--body-heading-color);
+    --text-color: var(--body-text-color);
+    --link-color: var(--body-link-color);
+  }::selection {
+    background: rgb(var(--body-heading-color));
+    color: rgb(var(--body-bg-color));
+  }
+  ::-moz-selection {
+    background: rgb(var(--body-heading-color));
+    color: rgb(var(--body-bg-color));
+  }.use-color-scheme--default {
+  --product-label-sale-text:           #c20000;
+  --product-label-sold-text:           #171717;
+  --product-label-preorder-text:       #3ea36a;
+  --input-background-color:            rgb(var(--body-bg-color));
+  --input-text-color:                  var(--body-input-text-color);
+  --input-border-color:                rgb(191, 191, 191);
+  --input-border-color-hover:          rgb(115, 115, 115);
+  --input-border-color-active:         rgb(0, 0, 0);
+}</style>
+
+  <link href="//capgown.com/cdn/shop/t/18/assets/main.css?v=126604467323440201891776802557" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="stylesheet" href="//capgown.com/cdn/shop/t/18/assets/swatches.css?v=124664249181131783561776120685" media="print" onload="this.media='all'"><link rel="preload" as="font" href="//capgown.com/cdn/fonts/figtree/figtree_n4.3c0838aba1701047e60be6a99a1b0a40ce9b8419.woff2" type="font/woff2" crossorigin><link rel="preload" as="font" href="//capgown.com/cdn/fonts/figtree/figtree_n7.2fd9bfe01586148e644724096c9d75e8c7a90e55.woff2" type="font/woff2" crossorigin><script>
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+
+    window.theme = {
+      info: {
+        name: 'Symmetry',
+        version: '8.1.1'
+      },
+      device: {
+        hasTouch: window.matchMedia('(any-pointer: coarse)').matches,
+        hasHover: window.matchMedia('(hover: hover)').matches
+      },
+      mediaQueries: {
+        md: '(min-width: 768px)',
+        productMediaCarouselBreak: '(min-width: 1041px)'
+      },
+      routes: {
+        base: 'https://capgown.com',
+        cart: '/cart',
+        cartAdd: '/cart/add.js',
+        cartUpdate: '/cart/update.js',
+        predictiveSearch: '/search/suggest'
+      },
+      strings: {
+        cartTermsConfirmation: "You must agree to the terms and conditions before continuing.",
+        cartItemsQuantityError: "You can only add [QUANTITY] of this item to your cart.",
+        generalSearchViewAll: "View all search results",
+        noStock: "Sold out",
+        noVariant: "Unavailable",
+        productsProductChooseA: "Choose a",
+        generalSearchPages: "Pages",
+        generalSearchNoResultsWithoutTerms: "Sorry, we couldnʼt find any results",
+        shippingCalculator: {
+          singleRate: "There is one shipping rate for this destination:",
+          multipleRates: "There are multiple shipping rates for this destination:",
+          noRates: "We do not ship to this destination."
+        },
+        regularPrice: "Regular price",
+        salePrice: "Sale price"
+      },
+      settings: {
+        moneyWithCurrencyFormat: "${{amount}}",
+        cartType: "page",
+        afterAddToCart: "page",
+        quickbuyStyle: "off",
+        externalLinksNewTab: true,
+        internalLinksSmoothScroll: true
+      }
+    }
+
+    theme.inlineNavigationCheck = function() {
+      var pageHeader = document.querySelector('.pageheader'),
+          inlineNavContainer = pageHeader.querySelector('.logo-area__left__inner'),
+          inlineNav = inlineNavContainer.querySelector('.navigation--left');
+      if (inlineNav && getComputedStyle(inlineNav).display != 'none') {
+        var inlineMenuCentered = document.querySelector('.pageheader--layout-inline-menu-center'),
+            logoContainer = document.querySelector('.logo-area__middle__inner');
+        if(inlineMenuCentered) {
+          var rightWidth = document.querySelector('.logo-area__right__inner').clientWidth,
+              middleWidth = logoContainer.clientWidth,
+              logoArea = document.querySelector('.logo-area'),
+              computedLogoAreaStyle = getComputedStyle(logoArea),
+              logoAreaInnerWidth = logoArea.clientWidth - Math.ceil(parseFloat(computedLogoAreaStyle.paddingLeft)) - Math.ceil(parseFloat(computedLogoAreaStyle.paddingRight)),
+              availableNavWidth = logoAreaInnerWidth - Math.max(rightWidth, middleWidth) * 2 - 40;
+          inlineNavContainer.style.maxWidth = availableNavWidth + 'px';
+        }
+
+        var firstInlineNavLink = inlineNav.querySelector('.navigation__item:first-child'),
+            lastInlineNavLink = inlineNav.querySelector('.navigation__item:last-child');
+        if (lastInlineNavLink) {
+          var inlineNavWidth = null;
+          if(document.querySelector('html[dir=rtl]')) {
+            inlineNavWidth = firstInlineNavLink.offsetLeft - lastInlineNavLink.offsetLeft + firstInlineNavLink.offsetWidth;
+          } else {
+            inlineNavWidth = lastInlineNavLink.offsetLeft - firstInlineNavLink.offsetLeft + lastInlineNavLink.offsetWidth;
+          }
+          if (inlineNavContainer.offsetWidth >= inlineNavWidth) {
+            pageHeader.classList.add('pageheader--layout-inline-permitted');
+            var tallLogo = logoContainer.clientHeight > lastInlineNavLink.clientHeight + 20;
+            if (tallLogo) {
+              inlineNav.classList.add('navigation--tight-underline');
+            } else {
+              inlineNav.classList.remove('navigation--tight-underline');
+            }
+          } else {
+            pageHeader.classList.remove('pageheader--layout-inline-permitted');
+          }
+        }
+      }
+    };
+
+    theme.setInitialHeaderHeightProperty = () => {
+      const section = document.querySelector('.section-header');
+      if (section) {
+        document.documentElement.style.setProperty('--theme-header-height', Math.ceil(section.clientHeight) + 'px');
+      }
+    };
+  </script>
+
+  <script src="//capgown.com/cdn/shop/t/18/assets/main.js?v=25831844697274821701767964332" defer></script>
+
+   <!-- Include Flatpickr CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+
+    <!-- Include Flatpickr JS -->
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+    <script src="//capgown.com/cdn/shop/t/18/assets/animate-on-scroll.js?v=15249566486942820451767964323" defer></script>
+    <link href="//capgown.com/cdn/shop/t/18/assets/animate-on-scroll.css?v=19691628241744461921767968746" rel="stylesheet" type="text/css" media="all" />
+  
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="2fD45N3gOmz_NsBCDZ7sbwY4MuMyfELSiNh2-rydHZ8">
+<meta name="facebook-domain-verification" content="n06aogpqhh8kcus663rg9fpuh42reb">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/10957266/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="adb1636408e1509537688f2888e11d30">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="/blogs/best-of.atom" />
+<link rel="alternate" hreflang="x-default" href="https://capgown.com/blogs/best-of/where-to-live-at-the-university-of-georgia-housing-options-for-the-bulldogs-community">
+<link rel="alternate" hreflang="en" href="https://capgown.com/blogs/best-of/where-to-live-at-the-university-of-georgia-housing-options-for-the-bulldogs-community">
+<link rel="alternate" hreflang="es" href="https://capgown.com/es/blogs/best-of/where-to-live-at-the-university-of-georgia-housing-options-for-the-bulldogs-community">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-US"></script>
+<link rel="preconnect" href="https://shop.app" crossorigin="anonymous">
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=10957266" crossorigin="anonymous"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":10957266,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/10957266","merchantName":"CAPGOWN","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb"],"total":{"type":"pending","label":"CAPGOWN","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"adb1636408e1509537688f2888e11d30","betas":["rich-media-storefront-analytics"],"domain":"capgown.com","predictiveSearch":true,"shopId":10957266,"locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "cap-and-gown.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"CAPGOWN 8.1.1 (2026.01.09)","id":155380515070,"schema_name":"Symmetry","schema_version":"8.1.1","theme_store_id":568,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "capgown.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";
+Shopify.shopJsCdnBaseUrl = "https://cdn.shopify.com/shopifycloud/shop-js";
+Shopify.SignInWithShop = Shopify.SignInWithShop || {};
+Shopify.SignInWithShop.User = Shopify.SignInWithShop.User || {};
+Shopify.SignInWithShop.User.recognized = false;</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>
+  window.ShopifyPay = window.ShopifyPay || {};
+  window.ShopifyPay.apiHost = "shop.app\/pay";
+  window.ShopifyPay.redirectState = null;
+</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  window.Shopify.SignInWithShop = window.Shopify.SignInWithShop || {};
+  window.Shopify.SignInWithShop.assetMetrics = { sampleRate: 0.01 };
+  window.Shopify.SignInWithShop.eligible = true;
+</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"article"}</script>
+<script defer="defer" async type="module" src="//capgown.com/cdn/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js"></script>
+<script type="module">
+  await import("//capgown.com/cdn/shopifycloud/shop-js/modules/v2/loader.init-shop-cart-sync.en.esm.js");
+
+  window.Shopify.SignInWithShop?.initShopCartSync?.({"fedCMEnabled":true,"windoidEnabled":true});
+
+</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"shop-toast-manager":["modules/v2/loader.shop-toast-manager.en.esm.js"],"shop-cash-offers":["modules/v2/loader.shop-cash-offers.en.esm.js"],"listener":["modules/v2/loader.listener.en.esm.js"],"shop-button":["modules/v2/loader.shop-button.en.esm.js"],"init-shop-user-recognition":["modules/v2/loader.init-shop-user-recognition.en.esm.js"],"init-windoid":["modules/v2/loader.init-windoid.en.esm.js"],"init-fed-cm":["modules/v2/loader.init-fed-cm.en.esm.js"],"init-shop-email-lookup-coordinator":["modules/v2/loader.init-shop-email-lookup-coordinator.en.esm.js"],"avatar":["modules/v2/loader.avatar.en.esm.js"],"init-shop-cart-sync":["modules/v2/loader.init-shop-cart-sync.en.esm.js"],"shop-login-button":["modules/v2/loader.shop-login-button.en.esm.js"],"shop-user-recognition":["modules/v2/loader.shop-user-recognition.en.esm.js"],"checkout-modal":["modules/v2/loader.checkout-modal.en.esm.js"],"init-customer-accounts-sign-up":["modules/v2/loader.init-customer-accounts-sign-up.en.esm.js"],"pay-button":["modules/v2/loader.pay-button.en.esm.js"],"init-shop-for-new-customer-accounts":["modules/v2/loader.init-shop-for-new-customer-accounts.en.esm.js"],"shop-cart-sync":["modules/v2/loader.shop-cart-sync.en.esm.js"],"init-customer-accounts":["modules/v2/loader.init-customer-accounts.en.esm.js"],"shop-login":["modules/v2/loader.shop-login.en.esm.js"],"shop-follow-button":["modules/v2/loader.shop-follow-button.en.esm.js"],"lead-capture":["modules/v2/loader.lead-capture.en.esm.js"],"payment-terms":["modules/v2/loader.payment-terms.en.esm.js"]};
+</script>
+<script>(function() {
+  var isLoaded = false;
+  function asyncLoad() {
+    if (isLoaded) return;
+    isLoaded = true;
+    var urls = ["https:\/\/cdn.shopify.com\/s\/files\/1\/1095\/7266\/t\/5\/assets\/zendesk-embeddable.js?13566610236133203868\u0026shop=cap-and-gown.myshopify.com","https:\/\/cdn-stamped-io.azureedge.net\/files\/widget.min.js?shop=cap-and-gown.myshopify.com","https:\/\/cdn.prooffactor.com\/javascript\/dist\/1.0\/jcr-widget.js?account_id=shopify:cap-and-gown.myshopify.com\u0026shop=cap-and-gown.myshopify.com","\/\/cdn.shopify.com\/proxy\/daccdad41b007c9af8250a8c7487575851ea9456122e78dc509b8640974bd28c\/cap-and-gown.bookthatapp.com\/javascripts\/bta-installed.js?shop=cap-and-gown.myshopify.com\u0026sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/dbb609cb670572cacf25949a2\/95b05ebbbc7a6f6b615bb2b13.js?shop=cap-and-gown.myshopify.com","https:\/\/searchanise-ef84.kxcdn.com\/widgets\/shopify\/init.js?a=2H6Z4o4T5h\u0026shop=cap-and-gown.myshopify.com","\/\/cdn.shopify.com\/proxy\/daccdad41b007c9af8250a8c7487575851ea9456122e78dc509b8640974bd28c\/cap-and-gown.bookthatapp.com\/javascripts\/bta-installed.js?shop=cap-and-gown.myshopify.com\u0026sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA","https:\/\/cap-and-gown.bookthatapp.com\/javascripts\/bta.js?shop=cap-and-gown.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":10957266,"offset":-25200,"reqid":"4582e4d8-ad27-45af-9d9c-49dd237241a2-1781064268","pageurl":"capgown.com\/blogs\/best-of\/where-to-live-at-the-university-of-georgia-housing-options-for-the-bulldogs-community","s":"articles-592594469118","u":"8e0389a72645","p":"article","rtyp":"article","rid":592594469118};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
+<script integrity="sha256-JjoPp5ZfB1sSAs5SQaol1x1GgvveM+BgmRzyDexInEQ=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//capgown.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-1bd60354.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//capgown.com/cdn/shopifycloud/storefront/assets/shopify_pay/storefront-bf1cdb70.js?v=20250812"></script>
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://capgown.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
+  function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
+</script>
+<script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));
+</script>
+<script async="async" integrity="sha256-hlq21VGceRKy8z+Fjhropk1BwDPACP0RdQ5rBrATyUo=" src="//cdn.shopify.com/shopifycloud/storefront/assets/storefront/origin_trials-67b41cb9.js" crossorigin="anonymous"></script>
+<script id='scb4127' type='text/javascript' async='' src='https://capgown.com/cdn/shopifycloud/privacy-banner/storefront-banner.js'></script><link id="shopify-accelerated-checkout-styles" rel="stylesheet" media="screen" href="https://capgown.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
+<style id="shopify-accelerated-checkout-cart">
+        #shopify-buyer-consent {
+  margin-top: 1em;
+  display: inline-block;
+  width: 100%;
+}
+
+#shopify-buyer-consent.hidden {
+  display: none;
+}
+
+#shopify-subscription-policy-button {
+  background: none;
+  border: none;
+  padding: 0;
+  text-decoration: underline;
+  font-size: inherit;
+  cursor: pointer;
+}
+
+#shopify-subscription-policy-button::before {
+  box-shadow: none;
+}
+
+      </style>
+<script id="sections-script" data-sections="footer" defer="defer" src="//capgown.com/cdn/shop/t/18/compiled_assets/scripts.js?v=95860451373263482441767964370"></script>
+<script id="shopify-cfh-end">window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+<!-- CC Custom Head Start --><!-- CC Custom Head End --><script>
+document.addEventListener('DOMContentLoaded', function () {
+
+  function toggleAddon(selectEl, idInput, qtyInput) {
+    if (!selectEl) return;
+
+    selectEl.addEventListener('change', function () {
+      if (this.value) {
+        idInput.value = this.value;
+        idInput.disabled = false;
+        qtyInput.disabled = false;
+      } else {
+        idInput.value = '';
+        idInput.disabled = true;
+        qtyInput.disabled = true;
+      }
+    });
+  }
+
+  toggleAddon(
+    document.getElementById('product-select'),
+    document.getElementById('addon-days-id'),
+    document.getElementById('addon-days-qty')
+  );
+
+  toggleAddon(
+    document.getElementById('product-select-two'),
+    document.getElementById('addon-protection-id'),
+    document.getElementById('addon-protection-qty')
+  );
+
+});
+</script>
+
+
+ 
+
+   <script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll('.ubis-product-list .product-grid').forEach(grid => {
+    if (grid.querySelectorAll('.product-block').length === 1) {
+      grid.style.setProperty('--product-columns-desktop', '1');
+      grid.style.justifyItems = 'center';
+      grid.querySelector('.product-block').style.width = '50%';
+    }
+  });
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const hideIfSVG = () => {
+    let shouldHideHeading = false;
+
+    document.querySelectorAll(".container.fully-spaced-row--medium").forEach(container => {
+      const adapt = container.querySelector(".height--adapt");
+      if (!adapt) return;
+
+      const hasSVG = adapt.querySelector("svg");
+      if (hasSVG) {
+        container.style.display = "none";
+        shouldHideHeading = true;
+      }
+    });
+
+    // If any container was hidden due to svg → also hide the global heading
+    if (shouldHideHeading) {
+      document.querySelectorAll("h2.majortitle").forEach(title => {
+        if (title.textContent.trim() === "Doctoral Regalia") {
+          title.style.display = "none";
+        }
+      });
+    }
+  };
+
+  hideIfSVG();
+
+  // Watch for dynamic changes (AJAX loads)
+  const observer = new MutationObserver(hideIfSVG);
+  observer.observe(document.documentElement, { childList: true, subtree: true });
+});
+
+</script>
+    <script>
+document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".scrolling-image-metafield .slider__item").forEach(function (item) {
+        // Find an <img> inside this slider item
+        const img = item.querySelector("img[src]:not([src=''])");
+
+        // Check if the src is NOT a placeholder SVG
+        const isPlaceholder = img && img.src.endsWith(".svg");
+
+        // Check for background images
+        const hasBackground = Array.from(item.querySelectorAll("[style]")).some(el => {
+            const bg = window.getComputedStyle(el).backgroundImage;
+            return bg && bg !== "none";
+        });
+
+        // Hide the slider__item if it has no real image & no background
+        if ((!img || isPlaceholder) && !hasBackground) {
+            item.style.display = "none";
+        }
+    });
+});
+</script>
+
+   <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const body = document.querySelector("body.template-article.template-suffix-main-blog-template.cc-animate-enabled");
+    const metaField = body?.querySelector(".rte.lightly-spaced-row.large-text");
+
+    if (metaField && metaField.textContent.trim() === "") {
+      const targetSection = document.querySelector(".fully-spaced-row--medium.cc-animate-init.cc-animate-in");
+      const footerImages = document.querySelectorAll(".footer-top img");
+
+      if (targetSection) {
+        targetSection.style.display = "none";
+      }
+
+      if (footerImages.length > 0) {
+        footerImages.forEach(img => {
+          img.style.display = "none";
+        });
+      }
+    }
+  });
+</script>
+<!-- BEGIN app block: shopify://apps/bta-booking-app/blocks/widgets/447b4be3-b8e8-4347-959f-d9a05d4b2d5d -->
+<script>var bondVariantIds = [], btaVariantIdsInCart = [], productConfig = {}, productMetafields;productMetafields = '';
+
+        if (productMetafields !== '') {
+            productConfig = JSON.parse('{"' +
+                decodeURI(productMetafields).replace(/"/g, '\\"').replace(/&/g, '","').replace(/=/g, '":"')
+                + '"}');
+        }
+
+    const parsedSettings = JSON.parse('{"dateFormat":"MM/DD/YYYY","domain":"capgown.com","env":"production","path_prefix":"/apps/bookthatapp","should_load":false,"widget_enabled_list":["reservation"],"widget_on_every_page":true,"widgets_mode":{}}' || '{}')
+
+    window.BtaConfig = {
+        account: 'cap-and-gown',
+        bondVariantIds: bondVariantIds,
+        btaVariantIdsInCart: btaVariantIdsInCart,
+        cart: `{"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"USD","items_subtotal_price":0,"cart_level_discount_applications":[],"checkout_charge_amount":0}`,
+        customer: '',settings: parsedSettings,
+        version: '1.6'
+    }
+
+    const pathPrefix = parsedSettings.path_prefix || '/apps/bookthatapp';
+    const widgetScriptUrl = `https://capgown.com${pathPrefix}/sdk/v1/js/bta-widgets-bootstrap.min.js`;
+
+    const widgetScript = document.createElement('script');
+
+    widgetScript.src = widgetScriptUrl;
+    widgetScript.defer = true;
+    // render the script tag in the head
+    document.head.appendChild(widgetScript);
+</script>
+
+
+<!-- END app block --><!-- BEGIN app block: shopify://apps/simprosys-google-shopping-feed/blocks/core_settings_block/1f0b859e-9fa6-4007-97e8-4513aff5ff3b --><!-- BEGIN: GSF App Core Tags & Scripts by Simprosys Google Shopping Feed -->
+
+
+
+
+
+
+
+
+
+<!-- END: GSF App Core Tags & Scripts by Simprosys Google Shopping Feed -->
+<!-- END app block --><script src="https://cdn.shopify.com/extensions/019eaaca-6e59-711c-bb59-e4399bceeb2c/lb-upsell-385/assets/lb-selleasy.js" type="text/javascript" defer="defer"></script>
+<script src="https://cdn.shopify.com/extensions/10990a76-73ec-4a22-a264-6f931226ffa4/forms-2410/assets/shopify-forms-loader.js" type="text/javascript" defer="defer"></script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {try {var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description;} catch {var session_token_from_headers = undefined;}var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/);var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : "";var session_token = session_token_from_headers || session_token_from_cookie || "";function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 10957266,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token,page_type: "article"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>
+  window.__TREKKIE_SHIM_QUEUE = window.__TREKKIE_SHIM_QUEUE || [];
+</script>
+<script id="web-pixels-manager-setup">(function(){var wpmLoader=function(){"use strict";return function(e,d,r,n){var o=arguments.length>4&&void 0!==arguments[4]?arguments[4]:{};if(!Boolean(null==(i=null==(a=window.Shopify)?void 0:a.analytics)?void 0:i.replayQueue)){var a,i;window.Shopify=window.Shopify||{};var t=window.Shopify;t.analytics=t.analytics||{};var s=t.analytics;s.replayQueue=[],s.publish=function(e,d,r){return s.replayQueue.push([e,d,r]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l,u,c,m,p,f,h,g,y,w,v,b,S,P=(u=(l={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/}).modern,c=l.legacy,(m=navigator.userAgent).match(u)?"modern":m.match(c)?"legacy":"unknown"),C="modern"===P?"modern":"legacy",_=(null!=n?n:{modern:"",legacy:""})[C],O=[(p={baseUrl:d,hashVersion:r,buildTarget:C}).baseUrl,"/wpm","/b",p.hashVersion,"modern"===p.buildTarget?"m":"l",".js"].join(""),U=(f={version:r,bundleTarget:P,surface:e.surface,pageUrl:self.location.href,monorailEndpoint:e.monorailEndpoint},h=f.version,g=f.bundleTarget,y=f.surface,w=f.pageUrl,v=f.monorailEndpoint,{emit:function(e){var d=e.status,r=e.errorMsg,n=(new Date).getTime(),o=JSON.stringify({metadata:{event_sent_at_ms:n},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:h,bundle_target:g,page_url:w,status:d,surface:y,error_msg:r},metadata:{event_created_at_ms:n}}]});if(!v)return console&&console.warn&&console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."),!1;try{return self.navigator.sendBeacon.bind(self.navigator)(v,o)}catch(e){}var a=new XMLHttpRequest;try{return a.open("POST",v,!0),a.setRequestHeader("Content-Type","text/plain"),a.send(o),!0}catch(e){return console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."),!1}}});try{o.browserTarget=P,function(e){var d=e.src,r=e.async,n=void 0===r||r,o=e.onload,a=e.onerror,i=e.sri,t=e.scriptDataAttributes,s=void 0===t?{}:t,l=document.createElement("script"),u=document.querySelector("head"),c=document.querySelector("body");if(l.async=n,l.src=d,i&&(l.integrity=i,l.crossOrigin="anonymous"),s)for(var m in s)if(Object.prototype.hasOwnProperty.call(s,m))try{l.dataset[m]=s[m]}catch(e){}if(o&&l.addEventListener("load",o),a&&l.addEventListener("error",a),u)u.appendChild(l);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(l)}}({src:O,async:!0,onload:function(){if(!function(){var e,d;return Boolean(null==(d=null==(e=window.Shopify)?void 0:e.analytics)?void 0:d.initialized)}()){var d=window.webPixelsManager.init(e)||void 0;if(d){var r=window.Shopify.analytics;r.replayQueue.forEach(function(e){var r=e[0],n=e[1],o=e[2];d.publishCustomEvent(r,n,o)}),r.replayQueue=[],r.publish=d.publishCustomEvent,r.visitor=d.visitor,r.initialized=!0}}},onerror:function(){return U.emit({status:"failed",errorMsg:"".concat(O," has failed to load")})},sri:(b=_,S=/^sha384-[A-Za-z0-9+/=]+$/,"string"==typeof b&&S.test(b)?_:""),scriptDataAttributes:o}),U.emit({status:"loading"})}catch(e){U.emit({status:"failed",errorMsg:(null==e?void 0:e.message)||"Unknown error"})}}}}();wpmLoader({shopId: 10957266,storefrontBaseUrl: "https://capgown.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: ["2dca8a86","d5bdd5d0","3209b71c","5acaffe6","86d76263","3b3c7daf","6faea013"],webPixelsConfigList: [{"id":"2010644734","configuration":"{\"Enabled\":\"true\",\"UpdatedAt\":\"2026-06-04T03:30:04.270Z\",\"DeveloperPreview\":\"false\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"7913f49eba866a6cbbe1bb85b5400251","type":"APP","apiClientId":34646425601,"privacyPurposes":["ANALYTICS"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"1843396862","configuration":"{\"mailchimp_store_id\":\"store_l77ah5n8cfo3lli7uzfu\", \"mailchimp_user_id\":\"66374669\",\"mailchimp_list_id\":\"80c0be5b50\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"e357a49eadeb6216a959d63fa3fb8f55","type":"APP","apiClientId":2585307,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"1686208766","configuration":"{\"ti\":\"355052688\",\"endpoint\":\"https:\/\/bat.bing.com\/action\/0\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"5ee93563fe31b11d2d65e2f09a5229dc","type":"APP","apiClientId":2997493,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_personal_data"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"1250230526","configuration":"{\"account_ID\":\"585415\",\"google_analytics_tracking_tag\":\"1\",\"measurement_id\":\"2\",\"api_secret\":\"3\",\"shop_settings\":\"{\\\"custom_pixel_script\\\":\\\"https:\\\\\\\/\\\\\\\/storage.googleapis.com\\\\\\\/gsf-scripts\\\\\\\/custom-pixels\\\\\\\/cap-and-gown.js\\\",\\\"allow_tracking\\\":true,\\\"enable_post_purchase\\\":false,\\\"ga4_enabled\\\":\\\"1\\\",\\\"ga4_measurement_id\\\":\\\"G-0QM4WZW1BP\\\",\\\"ga4_tag_id\\\":\\\"\\\",\\\"ga4_submit_subtotal\\\":\\\"1\\\",\\\"google_ads_enabled\\\":\\\"1\\\",\\\"ga_conversion_id\\\":\\\"AW-1032719079\\\",\\\"ga_purchase_label\\\":\\\"7lleCNnI8cEBEOeVuOwD\\\",\\\"ga_add_to_cart_label\\\":\\\"\\\",\\\"ga_begin_checkout_label\\\":\\\"\\\",\\\"ga_tag_id\\\":\\\"\\\",\\\"ga_submit_subtotal\\\":\\\"0\\\",\\\"drm_enabled\\\":\\\"1\\\",\\\"prefixD\\\":\\\"US\\\",\\\"google_merchant_id\\\":\\\"164748415\\\",\\\"target_country\\\":\\\"US\\\",\\\"content_language\\\":\\\"en\\\",\\\"enhace_conversion_browser_side\\\":false,\\\"enhace_conversion_server_side\\\":\\\"-1\\\",\\\"consent_mode\\\":\\\"1\\\",\\\"ads_data_redaction\\\":\\\"0\\\",\\\"url_passthrough\\\":\\\"1\\\",\\\"sku_as_product_id\\\":\\\"0\\\",\\\"gtm_enabled\\\":0,\\\"gtm_container\\\":\\\"\\\",\\\"server_container_url\\\":\\\"\\\",\\\"shopify_store\\\":\\\"5dbcd2a4f0e30be12b37aeb8a691dda51ff352c71b04ec26c9a82ce3f11e75f8e748b8b3304e5ee86917c3984d18f54e02014b770d417af9a2dcd7629576afc7\\\"}\"}","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"d802bace19b6984b53674192a0d40fb9","type":"APP","apiClientId":1558137,"privacyPurposes":[],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"717062398","configuration":"{\"pixel_id\":\"1210255184019536\",\"pixel_type\":\"facebook_pixel\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"abff2a8add143ccb04deb20f0ebd74a9","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"558924030","configuration":"{\"tagID\":\"2613308160667\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"18031546ee651571ed29edbe71a3550b","type":"APP","apiClientId":3009811,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized"},{"id":"463372542","configuration":"{\"config\":\"{\\\"google_tag_ids\\\":[\\\"G-0QM4WZW1BP\\\",\\\"AW-1032719079\\\",\\\"GT-MKBGGCZ5\\\"],\\\"target_country\\\":\\\"US\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":[\\\"G-0QM4WZW1BP\\\",\\\"AW-1032719079\\\/aZI3CJuL584aEOeVuOwD\\\"]},{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":[\\\"G-0QM4WZW1BP\\\",\\\"AW-1032719079\\\/x59XCKeL584aEOeVuOwD\\\"]},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-0QM4WZW1BP\\\",\\\"AW-1032719079\\\/xfoSCKSL584aEOeVuOwD\\\",\\\"MC-9MH6JJDNS4\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-0QM4WZW1BP\\\",\\\"AW-1032719079\\\/gILhCJiL584aEOeVuOwD\\\",\\\"MC-9MH6JJDNS4\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-0QM4WZW1BP\\\",\\\"AW-1032719079\\\/rlJYCKGL584aEOeVuOwD\\\",\\\"MC-9MH6JJDNS4\\\"]},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":[\\\"G-0QM4WZW1BP\\\",\\\"AW-1032719079\\\/BIOjCKqL584aEOeVuOwD\\\"]},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":[\\\"G-0QM4WZW1BP\\\",\\\"AW-1032719079\\\/SJ6ECJ6L584aEOeVuOwD\\\"]}],\\\"enable_monitoring_mode\\\":false}\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"f15305aac1e98c5c26a7c80e7bc37bde","type":"APP","apiClientId":1780363,"privacyPurposes":[],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_address","read_customer_email","read_customer_name","read_customer_personal_data","read_customer_phone"],"dataSharingControls":["share_all_events"]},"dataSharingState":"optimized","enabledFlags":["9a3ed68a"]},{"id":"49512702","configuration":"{\"accountID\":\"selleasy-metrics-track\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"a451bb5b79c95ec6981bec9c1b10ec34","type":"APP","apiClientId":5519923,"privacyPurposes":[],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_email","read_customer_name","read_customer_personal_data"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"46399742","configuration":"{\"apiKey\":\"2H6Z4o4T5h\",\"host\":\"searchserverapi1.com\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"5559ea45e47b67d15b30b79e7c6719da","type":"APP","apiClientId":578825,"privacyPurposes":["ANALYTICS"],"dataSharingAdjustments":{"protectedCustomerApprovalScopes":["read_customer_personal_data"],"dataSharingControls":["share_all_events"]},"dataSharingState":"unrestricted"},{"id":"85590270","eventPayloadVersion":"1","runtimeContext":"LAX","scriptVersion":"1","type":"CUSTOM","privacyPurposes":["SALE_OF_DATA"],"name":"Simprosys Google shopping Feed"},{"id":"125501694","eventPayloadVersion":"1","runtimeContext":"LAX","scriptVersion":"1","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"],"name":"Microsoft Ads UET Tag"},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0460","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0460","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"CAPGOWN","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"cap-and-gown.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/capgown.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"products":null,"purchasingCompany":null,"page":null},},"https://capgown.com/cdn","a9664f44w6a62cec8p04af10e4mb91e3447",{"modern":"","legacy":""},{"trekkieShim":true,"apiClientId":"580111","pageType":"article","resourceId":"592594469118","shopId":"10957266","storefrontBaseUrl":"https:\/\/capgown.com","extensionBaseUrl":"https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[\"2dca8a86\", \"d5bdd5d0\", \"3209b71c\", \"5acaffe6\", \"86d76263\", \"3b3c7daf\", \"6faea013\"]","isMerchantRequest":"false","hashVersion":"a9664f44w6a62cec8p04af10e4mb91e3447","publish":"custom","events":"[[\"page_viewed\",{}]]"});})();</script><script>
+  window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+  window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+  window.ShopifyAnalytics.meta.currency = 'USD';
+  var meta = {"page":{"pageType":"article","resourceType":"article","resourceId":592594469118,"requestId":"4582e4d8-ad27-45af-9d9c-49dd237241a2-1781064268"}};
+  for (var attr in meta) {
+    window.ShopifyAnalytics.meta[attr] = meta[attr];
+  }
+</script>
+<script class="analytics">
+  (function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    window.ShopifyAnalytics.lib.trekkie = window.trekkie;
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        if (window.__TREKKIE_SHIM_QUEUE && (method == 'track' || method == 'page')) {
+          try {
+            window.__TREKKIE_SHIM_QUEUE.push({
+              from: 'trekkie-stub',
+              method: method,
+              args: args.slice(1)
+            });
+          } catch (e) {
+            // no-op
+          }
+        }
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.onerror = function(e) {
+  var scriptFallback = document.createElement('script');
+  scriptFallback.type = 'text/javascript';
+  scriptFallback.onerror = function(error) {
+          var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 10957266,
+      theme_id: 155380515070,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//capgown.com/cdn/s/trekkie.storefront.370ef8ffef154dc56bb5a814fea4666724353464.min.js"});
+
+  };
+  scriptFallback.async = true;
+  scriptFallback.src = '//capgown.com/cdn/s/trekkie.storefront.370ef8ffef154dc56bb5a814fea4666724353464.min.js';
+  first.parentNode.insertBefore(scriptFallback, first);
+};
+script.async = true;
+script.src = '//capgown.com/cdn/s/trekkie.storefront.370ef8ffef154dc56bb5a814fea4666724353464.min.js';
+first.parentNode.insertBefore(script, first);
+
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":10957266,"isMerchantRequest":null,"themeId":155380515070,"themeCityHash":"15558120175505108616","contentLanguage":"en","currency":"USD","eventMetadataId":"5e6e87b2-ca4b-4bd6-8232-4ee7fa05d49e"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["b5387b81","d5bdd5d0"]},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"article","resourceType":"article","resourceId":592594469118,"requestId":"4582e4d8-ad27-45af-9d9c-49dd237241a2-1781064268","shopifyEmitted":true});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+    var eventsListenerScript = document.createElement('script');
+    eventsListenerScript.async = true;
+    eventsListenerScript.src = "//capgown.com/cdn/shopifycloud/storefront/assets/shop_events_listener-4e26a9ce.js";
+    document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+})();</script>
+<script
+  defer
+  src="https://capgown.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.5.0.min.js"
+  data-application="storefront-renderer"
+  data-shop-id="10957266"
+  data-render-region="gcp-us-east1"
+  data-page-type="article"
+  data-theme-instance-id="155380515070"
+  data-theme-name="Symmetry"
+  data-theme-version="8.1.1"
+  data-monorail-region="shop_domain"
+  data-resource-timing-sampling-rate="10"
+  data-shs="true"
+  data-shs-beacon="true"
+  data-shs-export-with-fetch="true"
+  data-shs-logs-sample-rate="1"
+  data-shs-beacon-endpoint="https://capgown.com/api/collect"
+></script>
+</head>
+
+<body class="template-article
+ template-suffix-main-blog-template swatch-source-theme swatch-method-swatches swatch-style-icon_circle cc-animate-enabled">
+
+  <a class="skip-link visually-hidden" href="#content" data-cs-role="skip">Skip to content</a><!-- BEGIN sections: header-group -->
+<div id="shopify-section-sections--20695836360958__announcement-bar" class="shopify-section shopify-section-group-header-group section-announcement-bar">
+
+<announcement-bar id="section-id-sections--20695836360958__announcement-bar" class="announcement-bar announcement-bar--with-announcement">
+    <style data-shopify>
+#section-id-sections--20695836360958__announcement-bar {
+        --bg-color: #171717;
+        --bg-gradient: ;
+        --heading-color: 255 255 255;
+        --text-color: 255 255 255;
+        --link-color: 255 255 255;
+        --announcement-font-size: 12px;
+      }
+    </style>
+<div class="container container--no-max relative">
+      <div class="announcement-bar__left desktop-only">
+        
+      </div>
+
+      <div class="announcement-bar__middle"><div class="announcement-bar__announcements"><div
+                class="announcement"
+                style="
+                    --heading-color: 255 255 255;
+                    --text-color: 255 255 255;
+                    --link-color: 255 255 255;
+                " 
+              ><div class="announcement__text">
+                  CAPGOWN.COM IS NOT AFFILIATED WITH ANY UNIVERSITY
+
+                  
+                </div>
+              </div></div>
+          <div class="announcement-bar__announcement-controller">
+            <button class="announcement-button announcement-button--previous" aria-label="Previous"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-left" aria-hidden="true" focusable="false" role="presentation"><path d="m15 18-6-6 6-6"/></svg></button><button class="announcement-button announcement-button--next" aria-label="Next"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"/></svg></button>
+          </div></div>
+
+      <div class="announcement-bar__right desktop-only">
+        
+        
+      </div>
+    </div>
+  </announcement-bar>
+</div><div id="shopify-section-sections--20695836360958__header" class="shopify-section shopify-section-group-header-group section-header"><style data-shopify>
+  .logo img {
+    width: 225px;
+  }
+  .logo-area__middle--logo-image {
+    max-width: 225px;
+  }
+  @media (max-width: 767.98px) {
+    .logo img {
+      width: 130px;
+    }
+  }.section-header {
+    position: -webkit-sticky;
+    position: sticky;
+  }</style>
+<page-header data-section-id="sections--20695836360958__header">
+  <div id="pageheader" class="pageheader pageheader--layout-inline-menu-center pageheader--sticky">
+    <div class="logo-area container container--no-max">
+      <div class="logo-area__left">
+        <div class="logo-area__left__inner">
+          <button class="mobile-nav-toggle" aria-label="Menu" aria-controls="main-nav"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-menu" aria-hidden="true" focusable="false" role="presentation"><path d="M3 12h18M3 6h18M3 18h18"/></svg></button>
+          
+            <a class="show-search-link" href="/search" aria-label="Search">
+              <span class="show-search-link__icon"><svg class="icon" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false" role="presentation"><g transform="translate(3 3)" stroke="currentColor" stroke-width="1.5" fill="none" fill-rule="evenodd"><circle cx="7.824" cy="7.824" r="7.824"/><path stroke-linecap="square" d="m13.971 13.971 4.47 4.47"/></g></svg></span>
+              <span class="show-search-link__text visually-hidden">Search</span>
+            </a>
+          
+          
+            <div id="proxy-nav" class="navigation navigation--left" role="navigation" aria-label="Primary">
+              <div class="navigation__tier-1-container">
+                <ul class="navigation__tier-1">
+                  
+<li class="navigation__item featured-link">
+                      <a href="/pages/find-your-school" class="navigation__link" >Find Your School</a>
+                    </li>
+                  
+<li class="navigation__item">
+                      <a href="/pages/about-us" class="navigation__link" >About Us</a>
+                    </li>
+                  
+<li class="navigation__item">
+                      <a href="/pages/how-to-wear-your-academic-hood" class="navigation__link" >How to Wear</a>
+                    </li>
+                  
+                </ul>
+              </div>
+            </div>
+          
+        </div>
+      </div>
+
+      <div class="logo-area__middle logo-area__middle--logo-image">
+        <div class="logo-area__middle__inner">
+          <div class="logo"><a class="logo__link" href="/" title="CAPGOWN"><img class="logo__image" src="//capgown.com/cdn/shop/files/Logo_A3.png?v=1757089332&width=450" alt="CAPGOWN" itemprop="logo" width="606" height="114" loading="eager" /></a></div>
+        </div>
+      </div>
+
+      <div class="logo-area__right">
+        <div class="logo-area__right__inner">
+          
+            
+              <a class="header-account-link" href="https://capgown.com/customer_authentication/redirect?locale=en&region_country=US" aria-label="Account">
+                <span class="header-account-link__text visually-hidden">Account</span>
+                <span class="header-account-link__icon"><svg class="icon" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false" role="presentation"><g fill="none" fill-rule="evenodd"><path d="M12 2a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0 1.429a3.571 3.571 0 1 0 0 7.142 3.571 3.571 0 0 0 0-7.142Z" fill="currentColor"/><path d="M3 18.25c0-2.486 4.542-4 9.028-4 4.486 0 8.972 1.514 8.972 4v3H3v-3Z" stroke="currentColor" stroke-width="1.5"/><circle stroke="currentColor" stroke-width="1.5" cx="12" cy="7" r="4.25"/></g></svg></span>
+              </a>
+            
+          
+          
+            <a class="show-search-link" href="/search">
+              <span class="show-search-link__text visually-hidden">Search</span>
+              <span class="show-search-link__icon"><svg class="icon" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false" role="presentation"><g transform="translate(3 3)" stroke="currentColor" stroke-width="1.5" fill="none" fill-rule="evenodd"><circle cx="7.824" cy="7.824" r="7.824"/><path stroke-linecap="square" d="m13.971 13.971 4.47 4.47"/></g></svg></span>
+            </a>
+          
+<a href="/cart" class="cart-link" data-hash="e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855">
+            <span class="cart-link__label visually-hidden">Cart</span>
+            <span class="cart-link__icon"><svg class="icon" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false" role="presentation"><g fill="none" fill-rule="evenodd"><path d="M0 0h24v24H0z"/><path d="M15.321 9.5V5.321a3.321 3.321 0 0 0-6.642 0V9.5" stroke="currentColor" stroke-width="1.5"/><path stroke="currentColor" stroke-width="1.5" d="M5.357 7.705h13.286l1.107 13.563H4.25z"/></g></svg><span class="cart-link__count"></span>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div><script src="//capgown.com/cdn/shop/t/18/assets/main-search.js?v=125376880028422854351767964332" defer></script>
+      <main-search class="main-search main-search--with-suggestions"
+          data-quick-search="true"
+          data-quick-search-meta="false">
+
+        <div class="main-search__container container">
+          <button class="main-search__close" aria-label="Close"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-x" aria-hidden="true" focusable="false" role="presentation"><path d="M18 6 6 18M6 6l12 12"/></svg></button>
+
+          <form class="main-search__form" action="/search" method="get" autocomplete="off">
+            <div class="main-search__input-container">
+              <input class="main-search__input" type="text" name="q" autocomplete="off" placeholder="Search our store" aria-label="Search" />
+              <button class="main-search__button" type="submit" aria-label="Search"><svg class="icon" width="24" height="24" viewBox="0 0 24 24" aria-hidden="true" focusable="false" role="presentation"><g transform="translate(3 3)" stroke="currentColor" stroke-width="1.5" fill="none" fill-rule="evenodd"><circle cx="7.824" cy="7.824" r="7.824"/><path stroke-linecap="square" d="m13.971 13.971 4.47 4.47"/></g></svg></button>
+            </div><script src="//capgown.com/cdn/shop/t/18/assets/search-suggestions.js?v=128594369490078522091767964338" defer></script>
+              <search-suggestions></search-suggestions></form>
+
+          <div class="main-search__results"></div>
+
+          
+            <div class="main-search__suggestions">
+              
+                <div class="h4 heading-font">Find Your School</div>
+              
+              
+            </div>
+          
+        </div>
+      </main-search></div>
+
+  <main-navigation id="main-nav" class="desktop-only" data-proxy-nav="proxy-nav">
+    <div class="navigation navigation--main" role="navigation" aria-label="Primary">
+      <div class="navigation__tier-1-container">
+        <ul class="navigation__tier-1">
+  
+<li class="navigation__item featured-link">
+      <a href="/pages/find-your-school" class="navigation__link" >Find Your School</a>
+
+      
+    </li>
+  
+<li class="navigation__item">
+      <a href="/pages/about-us" class="navigation__link" >About Us</a>
+
+      
+    </li>
+  
+<li class="navigation__item">
+      <a href="/pages/how-to-wear-your-academic-hood" class="navigation__link" >How to Wear</a>
+
+      
+    </li>
+  
+</ul>
+      </div>
+    </div><script class="mobile-navigation-drawer-template" type="text/template">
+      <div class="mobile-navigation-drawer" data-mobile-expand-with-entire-link="true">
+        <div class="navigation navigation--main" role="navigation" aria-label="Primary">
+          <div class="navigation__tier-1-container">
+            <div class="navigation__mobile-header">
+              <a href="#" class="mobile-nav-back has-ltr-icon" aria-label="Back"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-left" aria-hidden="true" focusable="false" role="presentation"><path d="m15 18-6-6 6-6"/></svg></a>
+              <span class="mobile-nav-title"></span>
+              <a href="#" class="mobile-nav-toggle"  aria-label="Close"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-x" aria-hidden="true" focusable="false" role="presentation"><path d="M18 6 6 18M6 6l12 12"/></svg></a>
+            </div>
+            <ul class="navigation__tier-1">
+  
+<li class="navigation__item featured-link">
+      <a href="/pages/find-your-school" class="navigation__link" >Find Your School</a>
+
+      
+    </li>
+  
+<li class="navigation__item">
+      <a href="/pages/about-us" class="navigation__link" >About Us</a>
+
+      
+    </li>
+  
+<li class="navigation__item">
+      <a href="/pages/how-to-wear-your-academic-hood" class="navigation__link" >How to Wear</a>
+
+      
+    </li>
+  
+</ul>
+            
+          </div>
+        </div>
+        <div class="mobile-navigation-drawer__footer"></div>
+      </div>
+    </script>
+  </main-navigation>
+
+  <a href="#" class="header-shade mobile-nav-toggle" aria-label="Close"></a>
+</page-header>
+
+<script>
+  const mainNav = document.getElementById('main-nav');
+  if (mainNav) mainNav.style.opacity = 0;
+  setTimeout(() => {
+    theme.inlineNavigationCheck();
+    if (mainNav) mainNav.style.opacity = null;
+  }, 0);
+  setTimeout(theme.setInitialHeaderHeightProperty, 0);
+</script><script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "CAPGOWN",
+      "logo": "https:\/\/capgown.com\/cdn\/shop\/files\/Logo_A3.png?v=1757089332\u0026width=606",
+    
+    "sameAs": [
+      
+"https:\/\/www.facebook.com\/capgown\/","https:\/\/www.instagram.com\/capgown\/","https:\/\/www.pinterest.com\/capgown\/"
+    ],
+    "url": "https:\/\/capgown.com"
+  }
+</script>
+
+
+</div>
+<!-- END sections: header-group --><main id="content" role="main">
+    <div class="container cf">
+
+      <section id="shopify-section-template--20695837868286__blog_main_R33Qge" class="shopify-section">
+<section
+  class="split-hero"
+  style="
+    background-color:#faf7f4;
+    
+      min-height: 0px;
+    
+  "
+>
+  <div class="split-hero__inner">
+    <div class="split-hero__grid">
+      <!-- Left column: Heading -->
+      <div class="split-hero__content">
+        <h2 class="split-hero__heading" style="color: #000000;">
+          Where to Live at the University of Georgia: Housing Options for The Bulldogs Community
+        </h2>
+      </div>
+
+      <!-- Right column: Image (formerly background image) -->
+      <div class="split-hero__media">
+        
+          <img src="//capgown.com/cdn/shop/articles/Best_Dorms_-_University_of_Georgia_webp_792fb0d2-d501-46ee-ad43-c7d55ebb8e12.jpg?v=1755739296&amp;width=1600" alt="Where to Live at the University of Georgia: Housing Options for The Bulldogs Community" srcset="//capgown.com/cdn/shop/articles/Best_Dorms_-_University_of_Georgia_webp_792fb0d2-d501-46ee-ad43-c7d55ebb8e12.jpg?v=1755739296&amp;width=400 400w, //capgown.com/cdn/shop/articles/Best_Dorms_-_University_of_Georgia_webp_792fb0d2-d501-46ee-ad43-c7d55ebb8e12.jpg?v=1755739296&amp;width=600 600w, //capgown.com/cdn/shop/articles/Best_Dorms_-_University_of_Georgia_webp_792fb0d2-d501-46ee-ad43-c7d55ebb8e12.jpg?v=1755739296&amp;width=800 800w, //capgown.com/cdn/shop/articles/Best_Dorms_-_University_of_Georgia_webp_792fb0d2-d501-46ee-ad43-c7d55ebb8e12.jpg?v=1755739296&amp;width=1000 1000w, //capgown.com/cdn/shop/articles/Best_Dorms_-_University_of_Georgia_webp_792fb0d2-d501-46ee-ad43-c7d55ebb8e12.jpg?v=1755739296&amp;width=1200 1200w, //capgown.com/cdn/shop/articles/Best_Dorms_-_University_of_Georgia_webp_792fb0d2-d501-46ee-ad43-c7d55ebb8e12.jpg?v=1755739296&amp;width=1600 1600w" width="1600" height="914" loading="lazy" sizes="(max-width: 767px) 100vw, 50vw">
+        
+      </div>
+    </div>
+  </div>
+
+  <style>
+    /* === New classes for this section === */
+    .split-hero {
+      width: 100%;
+      display: block;
+    }
+
+    .split-hero__inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .split-hero__grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr; /* 50/50 on desktop */
+      align-items: center;
+      gap: 32px;
+    }
+
+    .split-hero__content {
+      display: flex;
+      align-items: center;
+    }
+
+    .split-hero__heading {
+      font-size: 50px;
+      line-height: 1.2;
+      margin: 0;
+      word-wrap: break-word;
+    }
+
+    .split-hero__media {
+      width: 100%;
+    }
+
+    .split-hero__media img {
+      display: block;
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+
+    .split-hero__placeholder {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+      background: #eaeaea;
+      border-radius: 8px;
+    }
+
+    /* Responsive */
+    @media (max-width: 991px) {
+      .split-hero__heading {
+        font-size: 44px;
+      }
+    }
+
+    @media (max-width: 767px) {
+      .split-hero__inner {
+        padding: 28px 16px;
+      }
+
+      .split-hero__grid {
+        grid-template-columns: 1fr; /* stack on mobile */
+        gap: 20px;
+      }
+
+      .split-hero__heading {
+        font-size: 36px;
+        line-height: 1.25;
+        text-align: center;
+      }
+
+      .split-hero__content {
+        justify-content: center;
+        text-align: center;
+      }
+
+      .split-hero__media img,
+      .split-hero__placeholder {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 520px; /* keeps image from getting too wide on mid devices */
+      }
+    }
+  </style>
+</section>
+
+
+</section><div id="shopify-section-template--20695837868286__main" class="shopify-section page-section-spacing">
+
+
+  <div class="container" data-cc-animate>
+      <div class="page-header cf">
+        <h1 class="majortitle">Where to Live at the University of Georgia: Housing Options for The Bulldogs Community</h1>
+      </div>
+  </div>
+
+
+<div class="article article--main">
+  <div class="container container--reading-width">
+
+    <div class="rte cf spaced-row" data-cc-animate>
+      <p dir="ltr">Choosing where to live at the University of Georgia is a key part of your college experience — whether you're a freshman beginning your journey toward a bachelor cap and gown, a master’s student balancing research and career prep, or a PhD candidate closing in on your doctoral regalia moment. UGA offers a variety of campus housing that blends Southern hospitality, academic focus, and Bulldog pride.</p>
+<p>This CAPGOWN guide walks you through top housing options — including first-year favorites like Russell Hall and Creswell Hall, upperclassmen-friendly choices like Oglethorpe House, and graduate housing communities like Rogers Road and University Village. You’ll find location breakdowns, Reddit commentary, student insights, and fun facts to help you choose where to live, learn, and thrive in Athens.</p>
+<h1>
+<b id="docs-internal-guid-fdd943f6-7fff-5992-2572-2ebeab5b8afa"><a href="https://housing.uga.edu/russell-hall/">Russell Hall</a> – Central, Social &amp; Bulldog Proud</b><br><strong></strong>
+</h1>
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/4mvBLTkXzXzBD42o7" title="University of Georgia Russell Hall Address and Directions">Russell Hall, 515 Baxter St, Athens, GA 30602</a></p>
+<p data-pm-slice="0 0 []"><meta charset="UTF-8">Russell Hall puts you right in the heart of campus life. Located on Baxter Street, it’s a high-energy residence with spacious common areas, welcoming lounges, and easy access to classes and dining.</p>
+<p><strong>Why CAPGOWN <a href="https://capgown.com/products/complete-bachelor-s-regalia-set-for-university-of-georgia" title="Complete Bachelor’s Regalia Set for the University of Georgia">Bachelor</a> Students Love It:</strong></p>
+<ul>
+<li>Central location steps from the dining commons.</li>
+<li>Great for making friends and attending events.</li>
+<li>Active atmosphere with strong school spirit.</li>
+</ul>
+<p><meta charset="utf-8"><strong>Fun Fact:</strong> <meta charset="UTF-8">Russell Hall has the largest residence hall desk on campus — students often joke it’s the “unofficial info center of UGA housing.”</p>
+<blockquote>
+<p><strong><a title="Student-run subreddit where Bulldogs share advice on housing, classes, and graduation." href="https://www.reddit.com/r/UGA/"><b id="docs-internal-guid-0bc5193c-7fff-bd86-d14d-c9a6d0be8062"><span>R/UGA</span></b></a> Says:<br></strong>“Russell is wild but fun. Expect to meet people fast.”<br>“A bit loud at times, but it’s the full UGA experience for freshmen.”</p>
+</blockquote>
+<div style="text-align: start;"><img src="https://cdn.shopify.com/s/files/1/0676/0949/3720/files/Russell_Hall_-_University_of_Georgia.webp?v=1735859903" alt="CAPGOWN | UGA Russell Hall housing for bachelor and master students." style="float: none;"></div>
+<div style="text-align: start;">
+<h1>
+<b id="docs-internal-guid-668e9425-7fff-650d-e6d2-b12a3e4fd37e"><a href="https://housing.uga.edu/creswell-hall/">Creswell Hall</a> – Friendly, Busy &amp; First-Year Focused</b><br><strong></strong>
+</h1>
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/woKtCq6uzkrjXfSH6" title="University of Georgia Creswell Hall Address and Directions">415 Baxter St, Athens, GA 30605</a></p>
+<p data-pm-slice="0 0 []"><meta charset="UTF-8"><meta charset="UTF-8">Creswell Hall is one of UGA’s most popular first-year dorms. Known for its social energy and tight-knit feel, it’s perfect for undergrads looking to form quick bonds.<br></p>
+<p><strong>Why CAPGOWN <a href="https://capgown.com/products/complete-bachelor-s-regalia-set-for-university-of-georgia" title="Complete Bachelor’s Regalia Set for the University of Georgia">Bachelor</a> Students Love It:</strong></p>
+<ul>
+<li>Strong sense of community.</li>
+<li>Regular hall events and active social scene.</li>
+<li>Prime Baxter Street location </li>
+</ul>
+<p><meta charset="utf-8"><strong>Fun Fact:</strong> <meta charset="UTF-8">Creswell is home to some of UGA’s most iconic “Dorm Olympics” — featuring floor-versus-floor competitions that bring residents together.</p>
+<blockquote>
+<p><strong><a title="Student-run subreddit where Bulldogs share advice on housing, classes, and graduation." href="https://www.reddit.com/r/UGA/"><b id="docs-internal-guid-0bc5193c-7fff-bd86-d14d-c9a6d0be8062"><span>R/UGA</span></b></a> Says:<br></strong>“If you want to meet people immediately, go Creswell.”<br>“It gets loud, but it’s worth it for the community.”</p>
+</blockquote>
+</div>
+<div style="text-align: start;"><strong><img alt="CAPGOWN | UGA Creswell Hall housing for bachelor and master students." src="https://cdn.shopify.com/s/files/1/0676/0949/3720/files/Creswell_Hall-_University_of_Georgia.webp?v=1735859607" style="margin-bottom: 16px; float: none;"></strong></div>
+<div style="text-align: start;">
+<h1>
+<b id="docs-internal-guid-f0295106-7fff-d079-32f4-85ffc9e04e26"><a href="https://housing.uga.edu/brumby-hall/">Brumby Hall</a> – Renovated, Relaxed &amp; Connected</b><br><strong></strong>
+</h1>
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/AyTAshv7V7fe1r9t5" title="University of Georgia Brumby Hall Address and Directions">615 Baxter St, Athens, GA 30605</a></p>
+<p data-pm-slice="0 0 []"><meta charset="UTF-8">Brumby Hall combines modern living with a classic UGA feel. After a full renovation, it now features updated lounges, private bathrooms, and sleek common spaces.<br></p>
+<p><strong>Why CAPGOWN <a href="https://capgown.com/products/complete-bachelor-s-regalia-set-for-university-of-georgia" title="Complete Bachelor’s Regalia Set for the University of Georgia">Bachelor</a> Students Love It:</strong></p>
+<ul>
+<li><span style="font-size: 0.875rem;">Newly renovated with great amenities. </span></li>
+<li><span style="font-size: 0.875rem;">Large windows and lots of natural light. </span></li>
+<li>
+<span style="font-size: 0.875rem;">Just uphill from campus dining and Tate Student Center.</span><span style="font-size: 0.875rem;"></span>
+</li>
+</ul>
+<p><meta charset="utf-8"><strong>Fun Fact:</strong> <meta charset="UTF-8">Brumby’s renovation added one of the tallest residence hall elevators in Athens — saving you the stair workout on humid Georgia days.</p>
+<blockquote>
+<p><strong><a title="Student-run subreddit where Bulldogs share advice on housing, classes, and graduation." href="https://www.reddit.com/r/UGA/"><b id="docs-internal-guid-0bc5193c-7fff-bd86-d14d-c9a6d0be8062"><span>R/UGA</span></b></a> Says:<br></strong>“<span>Brumby is quiet but beautiful. Perfect if you’re not into the party scene.”</span><span><br></span><span> “Feels upscale — best bathrooms out of all the dorms.”</span></p>
+</blockquote>
+<p><span><img style="margin-bottom: 16px; float: none;" src="https://cdn.shopify.com/s/files/1/0676/0949/3720/files/Brumby_Hall_-_University_of_Georgia_jpg.webp?v=1735859607" alt="CAPGOWN | UGA Brumby Hall housing for bachelor and master students."></span></p>
+<h1>
+<b id="docs-internal-guid-da64f743-7fff-31e3-5a43-e052790223a8"><a href="https://housing.uga.edu/myers-hall/">Myers Hall</a> – Chill, Charming &amp; Community-Oriented</b><br><strong></strong>
+</h1>
+<p><strong>Address:</strong> <a title="University of Georgia Myers Hall Address and Directions" href="https://maps.app.goo.gl/MtoNfD1pU2nJiuvy9">1055 S Lumpkin St, Athens, GA 30609</a></p>
+<p data-pm-slice="0 0 []"><meta charset="UTF-8">Myers Hall is known for its calm vibe and tree-lined surroundings. It offers a balanced living experience, especially popular with honors students and upperclassmen.<br></p>
+<p><strong>Why CAPGOWN <a href="https://capgown.com/products/complete-bachelor-s-regalia-set-for-university-of-georgia" title="Complete Bachelor’s Regalia Set for the University of Georgia">Bachelor</a> Students Love It:</strong></p>
+<ul>
+<li>Calm atmosphere that’s still close to the action.</li>
+<li>Historic architecture and green space.</li>
+<li>Tight-knit floors and friendly neighbors.</li>
+</ul>
+<p><meta charset="utf-8"><strong>Fun Fact:</strong> <meta charset="UTF-8">Myers is the oldest continuously operating residence hall at UGA — some alumni even request to tour it during Homecoming.</p>
+<blockquote>
+<p><strong><a title="Student-run subreddit where Bulldogs share advice on housing, classes, and graduation." href="https://www.reddit.com/r/UGA/"><b id="docs-internal-guid-0bc5193c-7fff-bd86-d14d-c9a6d0be8062"><span>R/UGA</span></b></a> Says:<br></strong>“Myers is lowkey the best. Peaceful but still super close to downtown.”<br>“The layout makes it feel more like a community than a dorm.”</p>
+</blockquote>
+<p><img style="float: none;" src="https://cdn.shopify.com/s/files/1/0676/0949/3720/files/Myers_Hall_-_University_of_Georgia.webp?v=1735859902" alt="CAPGOWN | UGA Myers Hall housing for bachelor and master students."></p>
+<h1>
+<b id="docs-internal-guid-33bff094-7fff-926a-095c-48a6a7a09885"><a href="https://www.google.com/search?client=safari&amp;rls=en&amp;q=Oglethorpe+House+uga&amp;ie=UTF-8&amp;oe=UTF-8">Oglethorpe House</a> – Independent &amp; Apartment-Like</b><br><strong></strong>
+</h1>
+<p><strong>Address:</strong> <a title="University of Georgia Oglethorpe House Address and Directions" href="https://maps.app.goo.gl/1nyxT1vpXoiYoE9DA">998 S Lumpkin St, Athens, GA 30609</a></p>
+<p data-pm-slice="0 0 []"><meta charset="UTF-8"><meta charset="UTF-8">Oglethorpe House (or “O-House”) bridges the gap between dorm life and apartment living. It’s one of UGA’s suite-style residence halls with a reputation for quieter, mature living.<br></p>
+<p><strong>Why CAPGOWN <a href="https://capgown.com/products/complete-bachelor-s-regalia-set-for-university-of-georgia" title="Complete Bachelor’s Regalia Set for the University of Georgia">Bachelor</a> <b id="docs-internal-guid-c18f8df3-7fff-4774-8a5f-fa11cc271e0d"><span>&amp; Graduate Students Love It:</span></b></strong></p>
+<ul>
+<li>More privacy than traditional dorms.</li>
+<li>Spacious rooms with in-suite bathrooms.</li>
+<li>Popular with upperclassmen and grad students.</li>
+</ul>
+<p><meta charset="utf-8"><strong>Fun Fact:</strong> <meta charset="UTF-8">O-House is located directly across from the Intramural Fields — perfect for watching or joining pickup soccer or Ultimate Frisbee.</p>
+<blockquote>
+<p><strong><a title="Student-run subreddit where Bulldogs share advice on housing, classes, and graduation." href="https://www.reddit.com/r/UGA/"><b id="docs-internal-guid-0bc5193c-7fff-bd86-d14d-c9a6d0be8062"><span>R/UGA</span></b></a> Says:<br></strong>“Oglethorpe is like a mini-apartment. Great if you want space.”<br>“Less noise, more chill. Plus the walk to class isn’t bad at all.”</p>
+</blockquote>
+<p><img alt="CAPGOWN | UGA Oglethorpe House housing for bachelor and master students." src="https://cdn.shopify.com/s/files/1/0676/0949/3720/files/Oglethorpe_House_-_University_of_Georgia.webp?v=1735859902" style="float: none;"></p>
+<h1>
+<b id="docs-internal-guid-533dc129-7fff-f2a8-b1e9-eb50247576a4"><a href="https://housing.uga.edu/rogers-road/">Rogers Road</a> – Graduate-Only &amp; Modern</b><br><strong></strong>
+</h1>
+<p><strong>Address:</strong> <a title="University of Georgia Roger Road Address and Directions" href="https://maps.app.goo.gl/waeH2s3nHAzpYzgb8">Rogers Road Athens, Ga 30609</a></p>
+<p data-pm-slice="0 0 []"><meta charset="UTF-8">Rogers Road apartments are designed for graduate students who want peace, privacy, and easy access to South Campus.<br></p>
+<p><b id="docs-internal-guid-608e51bc-7fff-5cff-1ab2-0ed22b362ec0"><span>Why CAPGOWN Master &amp; PhD Students Love It:</span></b></p>
+<ul>
+<li>Single occupancy one-bedroom apartments.</li>
+<li>Quiet neighborhood-like feel.</li>
+<li>Close to research buildings and vet school.</li>
+</ul>
+<p><meta charset="utf-8"><strong>Fun Fact:</strong> Rogers Road housing is named after Professor William D. Rogers, a beloved UGA scientist known for mentoring hundreds of grad students.</p>
+<blockquote>
+<p><strong><a title="Student-run subreddit where Bulldogs share advice on housing, classes, and graduation." href="https://www.reddit.com/r/UGA/"><b id="docs-internal-guid-0bc5193c-7fff-bd86-d14d-c9a6d0be8062"><span>R/UGA</span></b></a> Says:<br></strong>“Super convenient for STEM grad programs.”<br>“Honestly underrated — you’ll get a ton done here.”</p>
+</blockquote>
+<p><img alt="CAPGOWN | UGA Rogers Road housing for master's and doctoral students." src="https://cdn.shopify.com/s/files/1/1095/7266/files/UGA_Rogers_Road.webp?v=1754433359" style="float: none;"></p>
+<h1>
+<b id="docs-internal-guid-a9c8848c-7fff-8bef-50db-d1c240c37927"><a href="https://housing.uga.edu/university-village/">University Village</a> – Graduate &amp; Family Living</b><br><strong></strong>
+</h1>
+<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/UxMdpJr6PHJeKoJ2A" title="University of Georgia University Village Address and Directions">270 Riverbend Pkwy, Athens, GA 30605</a></p>
+<p data-pm-slice="0 0 []"><meta charset="UTF-8">University Village offers affordable two-bedroom apartments and townhomes for graduate students with partners or families.<br></p>
+<p><b id="docs-internal-guid-cc85365e-7fff-8975-b84d-c8493c6d2032"><span>Why CAPGOWN Grad Students with Families Love It:</span></b></p>
+<ul>
+<li>Childcare resources nearby.</li>
+<li>Pet-friendly with green space.</li>
+<li>On UGA bus route for easy access </li>
+</ul>
+<p><meta charset="utf-8"><strong>Fun Fact:</strong> <meta charset="UTF-8">University Village is home to international graduate students from over 50 countries — making it one of the most diverse living communities on campus.</p>
+<blockquote>
+<p><strong><a title="Student-run subreddit where Bulldogs share advice on housing, classes, and graduation." href="https://www.reddit.com/r/UGA/"><b id="docs-internal-guid-0bc5193c-7fff-bd86-d14d-c9a6d0be8062"><span>R/UGA</span></b></a> Says:<br></strong>“Quiet, diverse, and supportive for families.”<br>“The bus makes the commute easy, and it’s super affordable.”</p>
+</blockquote>
+<p><img src="https://cdn.shopify.com/s/files/1/1095/7266/files/UGA_University_Village.webp?v=1754498450" alt="CAPGOWN | UGA University Village housing for master's and doctoral students." style="float: none;"></p>
+<h1>
+<b id="docs-internal-guid-9506dc45-7fff-3f6e-d394-18d26e441ec6"><a href="https://housing.uga.edu/brown-hall/">Health Sciences Campus Housing</a> – Close to Med &amp; Nursing</b><br><strong></strong>
+</h1>
+<p><strong>Location:</strong> <a href="https://maps.app.goo.gl/qAPiimVwqnAUizVo7">Off Prince Ave near UGA Health Sciences Campus</a></p>
+<p data-pm-slice="0 0 []"><meta charset="UTF-8"><meta charset="UTF-8">Designed for students in UGA’s medical, nursing, and public health programs, this housing offers apartment-style options with convenient access to labs and clinics.<br></p>
+<p><b id="docs-internal-guid-9404a394-7fff-9af0-bf69-4cdc95085dda"><span>Why CAPGOWN Health Grad Students Love It:</span></b></p>
+<ul>
+<li>Steps from health science classrooms and labs.</li>
+<li>Private rooms and shared common spaces.</li>
+<li>Modern, secure, and low-distraction </li>
+</ul>
+<p><meta charset="utf-8"><strong>Fun Fact:</strong> The Health Sciences Campus used to be a Navy Supply Corps School and still features some restored historic buildings.</p>
+<blockquote>
+<p><strong><a title="Student-run subreddit where Bulldogs share advice on housing, classes, and graduation." href="https://www.reddit.com/r/UGA/"><b id="docs-internal-guid-0bc5193c-7fff-bd86-d14d-c9a6d0be8062"><span>R/UGA</span></b></a> Says:<br></strong>“Perfect for med and nursing. Quiet and walkable.”<br>“Not much social life here, but ideal for focus.”</p>
+</blockquote>
+<p><img src="https://cdn.shopify.com/s/files/1/1095/7266/files/UGA_Brown_Hall.webp?v=1754499957" alt="CAPGOWN | UGA Health Sciences housing for master's and doctoral students." style="float: none;"></p>
+<h1><b id="docs-internal-guid-3a73ea55-7fff-4c13-f655-f927987b4a2a"><span>Final Thoughts</span></b></h1>
+<p dir="ltr"><span>Whether you're a first-year Dawg diving into dorm life or a doctoral student grinding out your dissertation, the University of Georgia offers a living experience to match your academic stage. From social dorms like Creswell and Russell to the peace of Oglethorpe and Rogers Road, UGA housing supports every step of your journey.</span></p>
+<p dir="ltr"><span>And when it’s time to walk across the stage and celebrate your accomplishments, </span><span>CAPGOWN</span><span> is here to help you do it in style. We offer premium UGA <a href="https://capgown.com/products/complete-bachelor-s-regalia-set-for-university-of-georgia" title="Complete Bachelor’s Regalia Set for University of Georgia">bachelor</a> cap and gown sets, master’s regalia, and doctoral gowns that meet official standards — built for Bulldogs who want to look sharp on graduation day.</span></p>
+<p dir="ltr"><span>No matter where you lived, make your next chapter unforgettable with regalia trusted by Georgia grads at every level.</span></p>
+</div>
+    </div>
+
+    
+<div class="meta small-text" data-cc-animate>
+      
+
+      
+    </div>
+
+    <div class="pagination-row pagination-row-tabular" data-cc-animate>
+      <span class="prev">
+        
+        <a href="/blogs/best-of/where-to-live-at-cal-state-la-housing-guide-for-the-golden-eagle-community"><span class="icon--small icon-natcol has-ltr-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-left" aria-hidden="true" focusable="false" role="presentation"><path d="m15 18-6-6 6-6"/></svg></span> <span>Older articles</span></a>
+        
+      </span>
+
+      <span class="back"><a href="/blogs/best-of" title="">Back to Best Of</a></span>
+
+      <span class="next">
+        
+        <a href="/blogs/best-of/where-to-live-at-the-uc-riverside-housing-options-for-the-highlander-community"><span>Newer articles</span> <span class="icon--small icon-natcol has-ltr-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="icon feather feather-chevron-right" aria-hidden="true" focusable="false" role="presentation"><path d="m9 18 6-6-6-6"/></svg></span></a>
+        
+      </span>
+    </div>
+
+  </div>
+</div>
+
+
+
+<script type="application/ld+json">
+  {"@context":"http:\/\/schema.org\/","@id":"\/blogs\/best-of\/where-to-live-at-the-university-of-georgia-housing-options-for-the-bulldogs-community#article","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/capgown.com\/blogs\/best-of\/where-to-live-at-the-university-of-georgia-housing-options-for-the-bulldogs-community"},"articleBody":"Choosing where to live at the University of Georgia is a key part of your college experience — whether you're a freshman beginning your journey toward a bachelor cap and gown, a master’s student balancing research and career prep, or a PhD candidate closing in on your doctoral regalia moment. UGA offers a variety of campus housing that blends Southern hospitality, academic focus, and Bulldog pride.\nThis CAPGOWN guide walks you through top housing options — including first-year favorites like Russell Hall and Creswell Hall, upperclassmen-friendly choices like Oglethorpe House, and graduate housing communities like Rogers Road and University Village. You’ll find location breakdowns, Reddit commentary, student insights, and fun facts to help you choose where to live, learn, and thrive in Athens.\n\nRussell Hall – Central, Social \u0026amp; Bulldog Proud\n\nAddress: Russell Hall, 515 Baxter St, Athens, GA 30602\nRussell Hall puts you right in the heart of campus life. Located on Baxter Street, it’s a high-energy residence with spacious common areas, welcoming lounges, and easy access to classes and dining.\nWhy CAPGOWN Bachelor Students Love It:\n\nCentral location steps from the dining commons.\nGreat for making friends and attending events.\nActive atmosphere with strong school spirit.\n\nFun Fact: Russell Hall has the largest residence hall desk on campus — students often joke it’s the “unofficial info center of UGA housing.”\n\nR\/UGA Says:“Russell is wild but fun. Expect to meet people fast.”“A bit loud at times, but it’s the full UGA experience for freshmen.”\n\n\n\n\nCreswell Hall – Friendly, Busy \u0026amp; First-Year Focused\n\nAddress: 415 Baxter St, Athens, GA 30605\nCreswell Hall is one of UGA’s most popular first-year dorms. Known for its social energy and tight-knit feel, it’s perfect for undergrads looking to form quick bonds.\nWhy CAPGOWN Bachelor Students Love It:\n\nStrong sense of community.\nRegular hall events and active social scene.\nPrime Baxter Street location \n\nFun Fact: Creswell is home to some of UGA’s most iconic “Dorm Olympics” — featuring floor-versus-floor competitions that bring residents together.\n\nR\/UGA Says:“If you want to meet people immediately, go Creswell.”“It gets loud, but it’s worth it for the community.”\n\n\n\n\n\nBrumby Hall – Renovated, Relaxed \u0026amp; Connected\n\nAddress: 615 Baxter St, Athens, GA 30605\nBrumby Hall combines modern living with a classic UGA feel. After a full renovation, it now features updated lounges, private bathrooms, and sleek common spaces.\nWhy CAPGOWN Bachelor Students Love It:\n\nNewly renovated with great amenities. \nLarge windows and lots of natural light. \n\nJust uphill from campus dining and Tate Student Center.\n\n\nFun Fact: Brumby’s renovation added one of the tallest residence hall elevators in Athens — saving you the stair workout on humid Georgia days.\n\nR\/UGA Says:“Brumby is quiet but beautiful. Perfect if you’re not into the party scene.” “Feels upscale — best bathrooms out of all the dorms.”\n\n\n\nMyers Hall – Chill, Charming \u0026amp; Community-Oriented\n\nAddress: 1055 S Lumpkin St, Athens, GA 30609\nMyers Hall is known for its calm vibe and tree-lined surroundings. It offers a balanced living experience, especially popular with honors students and upperclassmen.\nWhy CAPGOWN Bachelor Students Love It:\n\nCalm atmosphere that’s still close to the action.\nHistoric architecture and green space.\nTight-knit floors and friendly neighbors.\n\nFun Fact: Myers is the oldest continuously operating residence hall at UGA — some alumni even request to tour it during Homecoming.\n\nR\/UGA Says:“Myers is lowkey the best. Peaceful but still super close to downtown.”“The layout makes it feel more like a community than a dorm.”\n\n\n\nOglethorpe House – Independent \u0026amp; Apartment-Like\n\nAddress: 998 S Lumpkin St, Athens, GA 30609\nOglethorpe House (or “O-House”) bridges the gap between dorm life and apartment living. It’s one of UGA’s suite-style residence halls with a reputation for quieter, mature living.\nWhy CAPGOWN Bachelor \u0026amp; Graduate Students Love It:\n\nMore privacy than traditional dorms.\nSpacious rooms with in-suite bathrooms.\nPopular with upperclassmen and grad students.\n\nFun Fact: O-House is located directly across from the Intramural Fields — perfect for watching or joining pickup soccer or Ultimate Frisbee.\n\nR\/UGA Says:“Oglethorpe is like a mini-apartment. Great if you want space.”“Less noise, more chill. Plus the walk to class isn’t bad at all.”\n\n\n\nRogers Road – Graduate-Only \u0026amp; Modern\n\nAddress: Rogers Road Athens, Ga 30609\nRogers Road apartments are designed for graduate students who want peace, privacy, and easy access to South Campus.\nWhy CAPGOWN Master \u0026amp; PhD Students Love It:\n\nSingle occupancy one-bedroom apartments.\nQuiet neighborhood-like feel.\nClose to research buildings and vet school.\n\nFun Fact: Rogers Road housing is named after Professor William D. Rogers, a beloved UGA scientist known for mentoring hundreds of grad students.\n\nR\/UGA Says:“Super convenient for STEM grad programs.”“Honestly underrated — you’ll get a ton done here.”\n\n\n\nUniversity Village – Graduate \u0026amp; Family Living\n\nAddress: 270 Riverbend Pkwy, Athens, GA 30605\nUniversity Village offers affordable two-bedroom apartments and townhomes for graduate students with partners or families.\nWhy CAPGOWN Grad Students with Families Love It:\n\nChildcare resources nearby.\nPet-friendly with green space.\nOn UGA bus route for easy access \n\nFun Fact: University Village is home to international graduate students from over 50 countries — making it one of the most diverse living communities on campus.\n\nR\/UGA Says:“Quiet, diverse, and supportive for families.”“The bus makes the commute easy, and it’s super affordable.”\n\n\n\nHealth Sciences Campus Housing – Close to Med \u0026amp; Nursing\n\nLocation: Off Prince Ave near UGA Health Sciences Campus\nDesigned for students in UGA’s medical, nursing, and public health programs, this housing offers apartment-style options with convenient access to labs and clinics.\nWhy CAPGOWN Health Grad Students Love It:\n\nSteps from health science classrooms and labs.\nPrivate rooms and shared common spaces.\nModern, secure, and low-distraction \n\nFun Fact: The Health Sciences Campus used to be a Navy Supply Corps School and still features some restored historic buildings.\n\nR\/UGA Says:“Perfect for med and nursing. Quiet and walkable.”“Not much social life here, but ideal for focus.”\n\n\nFinal Thoughts\nWhether you're a first-year Dawg diving into dorm life or a doctoral student grinding out your dissertation, the University of Georgia offers a living experience to match your academic stage. From social dorms like Creswell and Russell to the peace of Oglethorpe and Rogers Road, UGA housing supports every step of your journey.\nAnd when it’s time to walk across the stage and celebrate your accomplishments, CAPGOWN is here to help you do it in style. We offer premium UGA bachelor cap and gown sets, master’s regalia, and doctoral gowns that meet official standards — built for Bulldogs who want to look sharp on graduation day.\nNo matter where you lived, make your next chapter unforgettable with regalia trusted by Georgia grads at every level.\n","headline":"Where to Live at the University of Georgia: Housing Options for The Bulldogs Community","description":"Explore UGA housing, from bustling freshman dorms like Russell and Creswell to quieter spots like Myers and Oglethorpe. Whether you’re a bachelor’s, master’s, or doctoral student, this guide covers the best places to live with Reddit tips, fun facts, and insights.","image":"https:\/\/capgown.com\/cdn\/shop\/articles\/Best_Dorms_-_University_of_Georgia_webp_792fb0d2-d501-46ee-ad43-c7d55ebb8e12.jpg?v=1755739296\u0026width=1920","datePublished":"2025-08-05T16:46:38-07:00","dateModified":"2025-08-20T18:21:24-07:00","author":{"@type":"Person","name":"Miguel Bautista"},"publisher":{"@type":"Organization","name":"CAPGOWN"}}
+</script>
+
+
+
+</div><div id="shopify-section-template--20695837868286__blogs_faq_section_P3zGVg" class="shopify-section section-collapsible-tabs">
+
+
+
+
+
+
+
+</div><div id="shopify-section-template--20695837868286__footer_top_image_TJDBRx" class="shopify-section"><div id="section-id-template--20695837868286__footer_top_image_TJDBRx" class="section-id-template--20695837868286__footer_top_image_TJDBRx use-alt-bg" data-section-type="custom-liquid">
+  <div class="footer-top">
+    <img src="//capgown.com/cdn/shop/files/cap-toss-all-regalia-top_2024x2024.svg?v=1751743655" alt="Image" class="rimage__image" />
+  </div>
+</div>
+
+
+
+<style> #shopify-section-template--20695837868286__footer_top_image_TJDBRx .footer-top {padding: 50px 0px;} #shopify-section-template--20695837868286__footer_top_image_TJDBRx .footer-top img {max-width: 856px;} </style></div><div id="shopify-section-template--20695837868286__rich_text_6K7q7y" class="shopify-section section-rich-text"><div class="fully-spaced-row--medium" data-cc-animate>
+  <div class="container">
+    <div class="align-ltr-center spaced-column">
+      
+      
+
+            
+              <h2 class="majortitle in-content h1" >Where to Live at the University of Georgia: Housing Options for The Bulldogs Community</h2>
+            
+
+          
+      
+
+            <div class="rte lightly-spaced-row large-text" ><p><span class="metafield-multi_line_text_field">Find your UGA home—from Russell and Brumby to Rogers Road and University Village. This CAPGOWN guide highlights top housing choices with Reddit quotes, location perks, and student insights for undergrads, master’s students, and PhD candidates.</span></p></div>
+
+          
+      
+    </div>
+  </div>
+</div>
+
+
+
+<style> #shopify-section-template--20695837868286__rich_text_6K7q7y .rte.lightly-spaced-row {color: #817a70;} #shopify-section-template--20695837868286__rich_text_6K7q7y .fully-spaced-row--medium {background-color: #f9f7f4; color: #707173; padding-top: 40px; padding-bottom: 80px; margin-top: 0px; margin-bottom: 0px;} </style></div><div id="shopify-section-template--20695837868286__footer_top_image_UhiXA4" class="shopify-section"><div id="section-id-template--20695837868286__footer_top_image_UhiXA4" class="section-id-template--20695837868286__footer_top_image_UhiXA4 use-alt-bg" data-section-type="custom-liquid">
+  <div class="footer-top">
+    <img src="//capgown.com/cdn/shop/files/cap-toss-all-regalia-bottom_2024x2024.svg?v=1751743655" alt="Image" class="rimage__image" />
+  </div>
+</div>
+
+
+
+</div>
+
+    </div>
+  </main><div id="pagefooter"><!-- BEGIN sections: footer-group -->
+<div id="shopify-section-sections--20695836328190__footer" class="shopify-section shopify-section-group-footer-group section-footer">
+  <div class="container container--no-max section-footer__row-container">
+    <div class="section-footer__row section-footer__row--blocks" data-num-blocks="4">
+      
+        
+          <div class="section-footer__row__col section-footer__text-block " >
+            
+              <div class="section-footer__title heading-font h6">KEEP ACHIEVING</div>
+            
+
+            
+
+            
+              <span class="section-footer__text-block__image" style="max-width: 130px">
+<img src="//capgown.com/cdn/shop/files/CAPGOWN_Wreath_-_White_800x800_edd5f328-acfa-42e8-865b-dce551939b66.webp?v=1779394647&amp;width=2500" alt="" width="2500" height="2500" loading="lazy" sizes="130px" srcset="//capgown.com/cdn/shop/files/CAPGOWN_Wreath_-_White_800x800_edd5f328-acfa-42e8-865b-dce551939b66.webp?v=1779394647&amp;width=162 130w, //capgown.com/cdn/shop/files/CAPGOWN_Wreath_-_White_800x800_edd5f328-acfa-42e8-865b-dce551939b66.webp?v=1779394647&amp;width=325 260w" class="theme-img">
+</span>
+            
+
+            
+</div>
+
+        
+      
+        
+          <div class="section-footer__row__col section-footer__menu-block section-footer__menu-block--collapse" role="navigation" aria-label="Secondary" >
+            <mobile-disclosure class="block" data-collapse="true">
+              <details class="mobile-disclosure" open>
+                <summary class="mobile-disclosure__title" tabindex="-1">
+                  <div class="section-footer__title heading-font h6">COMPANY</div>
+                </summary>
+                <div class="mobile-disclosure__panel has-motion">
+                  <div class="mobile-disclosure__content">
+                    
+                      <ul class="section-footer__menu-block__menu" >
+                        
+                          <li><a href="/pages/about-us" title="">About Us</a></li>
+                        
+                          <li><a href="/pages/testimonials" title="">Testimonials</a></li>
+                        
+                          <li><a href="/pages/gallery" title="">Photo Gallery</a></li>
+                        
+                          <li><a href="/pages/berkeley-lending" title="">UC Berkeley Lending Project</a></li>
+                        
+                          <li><a href="/blogs/all-things-graduation" title="">Blog</a></li>
+                        
+                      </ul>
+                    
+                  </div>
+                </div>
+              </details>
+            </mobile-disclosure>
+          </div>
+
+        
+      
+        
+          <div class="section-footer__row__col section-footer__menu-block section-footer__menu-block--collapse" role="navigation" aria-label="Secondary" >
+            <mobile-disclosure class="block" data-collapse="true">
+              <details class="mobile-disclosure" open>
+                <summary class="mobile-disclosure__title" tabindex="-1">
+                  <div class="section-footer__title heading-font h6">QUICK LINKS</div>
+                </summary>
+                <div class="mobile-disclosure__panel has-motion">
+                  <div class="mobile-disclosure__content">
+                    
+                      <ul class="section-footer__menu-block__menu" >
+                        
+                          <li><a href="/pages/find-your-school" title="">Find Your School</a></li>
+                        
+                          <li><a href="/pages/doctoral-regalia" title="">Doctoral Regalia</a></li>
+                        
+                          <li><a href="/pages/rent-custom-regalia" title="">Doctoral Rental</a></li>
+                        
+                          <li><a href="/pages/masters" title="">Master's Regalia</a></li>
+                        
+                          <li><a href="/pages/bachelors-regalia" title="">Bachelor's Regalia</a></li>
+                        
+                          <li><a href="/collections/halo-collection" title="">Halo Collection</a></li>
+                        
+                          <li><a href="/pages/diploma-frames" title="">Diploma Frames</a></li>
+                        
+                          <li><a href="/collections/seconds" title="">Clearance Items</a></li>
+                        
+                      </ul>
+                    
+                  </div>
+                </div>
+              </details>
+            </mobile-disclosure>
+          </div>
+
+        
+      
+        
+          <div class="section-footer__row__col section-footer__menu-block section-footer__menu-block--collapse" role="navigation" aria-label="Secondary" >
+            <mobile-disclosure class="block" data-collapse="true">
+              <details class="mobile-disclosure" open>
+                <summary class="mobile-disclosure__title" tabindex="-1">
+                  <div class="section-footer__title heading-font h6">SUPPORT</div>
+                </summary>
+                <div class="mobile-disclosure__panel has-motion">
+                  <div class="mobile-disclosure__content">
+                    
+                      <ul class="section-footer__menu-block__menu" >
+                        
+                          <li><a href="https://account.capgown.com" title="">Manage Your Order</a></li>
+                        
+                          <li><a href="/pages/contact-us" title="">Contact Us</a></li>
+                        
+                          <li><a href="/pages/how-to-wear-your-academic-hood" title="">How to Wear Hood</a></li>
+                        
+                          <li><a href="/pages/faq-1" title="">FAQ</a></li>
+                        
+                          <li><a href="/pages/group-order" title="">Group Ordering</a></li>
+                        
+                          <li><a href="/pages/shipping" title="">Shipping</a></li>
+                        
+                          <li><a href="/pages/returns-exchanges" title="">Returns & Exchanges</a></li>
+                        
+                          <li><a href="/pages/rental-agreement" title="">Rental Agreement</a></li>
+                        
+                      </ul>
+                    
+                  </div>
+                </div>
+              </details>
+            </mobile-disclosure>
+          </div>
+
+        
+      
+    </div>
+  </div>
+
+<div class="container container--no-max section-footer__row-container ">
+  <div class="section-footer__row section-footer__row-lower">
+    <div class="section-footer__row__col">
+      
+      
+    </div>
+    <div class="section-footer__row__col">
+      
+
+      <div class="copyright"><span class="copy">&copy; 2026 <a href="/">CAPGOWN</a>.</span>
+
+        
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+</div>
+<!-- END sections: footer-group --></div><!-- BEGIN sections: overlay-group -->
+<div id="shopify-section-sections--20695836393726__cart-drawer" class="shopify-section shopify-section-group-overlay-group section-cart-drawer">
+</div>
+<!-- END sections: overlay-group --><a href="#" class="page-shade" aria-label="Close"></a>
+  <div class="overlay fixed top-0 right-0 bottom-0 left-0 js-overlay"></div><!-- Stamped -->
+
+<script>function myInit(){ StampedFn.init({ 
+apiKey: 'pubkey-ex9X6gcIiBhbGRu0Ut2H401Ng0Z3KG', 
+sId: '2922' }); }</script>
+
+
+<script async onload="myInit()" type="text/javascript" src="
+https://cdn1.stamped.io/files/widget.min.js
+"></script>
+
+<!-- End Stamped -->
+
+<div id="shopify-block-AM05QbkZpaG5MWU93V__18228966181090706294" class="shopify-block shopify-app-block">
+
+
+  <script type="module" src="https://cdn.shopify.com/extensions/019eaaca-6e59-711c-bb59-e4399bceeb2c/lb-upsell-385/assets/lb-upsell.js" defer="defer"></script>
+  <script type="module" src="https://cdn.shopify.com/extensions/019eaaca-6e59-711c-bb59-e4399bceeb2c/lb-upsell-385/assets/lb-upsell-components.esm.js" defer="defer"></script>
+
+
+
+<script>
+
+  
+    window.lbupsellToken = "e459414227a813a42b065ed0a0cecb27"
+  
+  
+</script>
+
+<script>
+
+  window.lbInitMode = "immediate";
+  
+  window.lbComponentSrc = "https://cdn.shopify.com/extensions/019eaaca-6e59-711c-bb59-e4399bceeb2c/lb-upsell-385/assets/lb-upsell-components.esm.js";</script>
+
+<script type="text/javascript" src="https://cdn.shopify.com/extensions/019eaaca-6e59-711c-bb59-e4399bceeb2c/lb-upsell-385/assets/lb-utils.js" defer="defer"></script>
+
+</div><div id="shopify-block-AZFd6aGFnS21FS1hVa__13768625480086291342" class="shopify-block shopify-app-block"><script>
+  window['ShopifyForms'] = {
+    ...window['ShopifyForms'],
+    currentPageType: "article"
+  };
+</script>
+
+
+</div><script src="https://cdn.shopify.com/storefront/standard-actions.js" type="module" data-source-attribution="shopify.standard_actions"></script>
+</body>
+</html>

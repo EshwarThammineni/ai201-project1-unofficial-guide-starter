@@ -9,27 +9,29 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+<!-- What topic or category of knowledge does your system cover?
+This domain focuses on UGA’s on campus dorm reviews, and helps freshman choose the dorm that is right for them. There are a lot of options and all of them have their ups and downs, which makes this guide essential for summarizing, whats the go to, and what to stick away from. 
 
 ---
 
-## Documents
+## Document Sources
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
+<!-- List every source you collected documents from.
+     Be specific: include URLs, subreddit names, forum thread titles, or file names.
+     Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Type | URL or file path |
+|---|--------|------|-----------------|
+| 1 |The Ultimate Guide To Dorms At UGA|Blog|https://www.society19.com/ultimate-guide-dorms-uga/ |
+| 2 |The 5 Best University of Georgia Dorms|Blog| |https://humansofuniversity.com/university-of-georgia/the-5-best-university-of-georgia-dorm/
+| 3 |Best University of Georgia Dorms: A Comprehensive Guide|Blog|https://prked.com/post/best-university-of-georgia-dorms|
+| 4 |University of Georgia Freshman Dorms Ranked|Reviews|https://www.ratemydorm.com/freshman-dorms-ranked/university-of-georgia|
+| 5 |Where to Live at the University of Georgia: Housing Options for The Bulldogs Community|Blog|https://capgown.com/blogs/best-of/where-to-live-at-the-university-of-georgia-housing-options-for-the-bulldogs-community|
+| 6 |Best dorms for freshman|Forum|https://www.reddit.com/r/UGA/comments/17yf3k3/best_dorms_for_freshman/|
+| 7 |Rates|Official University Source||https://housing.uga.edu/rates/|
+| 8 |I was just admitted to UGA. What are the best dorms?|Forum|https://www.reddit.com/r/UGA/comments/1pfb5qc/i_was_just_admitted_to_uga_what_are_the_best_dorms/|
+| 9 |Dorm Rankings?|Forum|https://www.reddit.com/r/UGA/comments/1tx9qmr/dorm_rankings/|
+| 10 |Halls Information|Official University Source|https://housing.uga.edu/halls-information/|
 
 ---
 
@@ -40,11 +42,11 @@
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:300 tokens**  
 
-**Overlap:**
+**Overlap: 50 tokens**
 
-**Reasoning:**
+**Reasoning: The sources comprise of reddit posts which are conversational, Blog style guides which sections are structured by dorm, and official sources from the University which are strucutured tables.A medium chunk size allows the description or reddit thread to be fully contained. The small overlap size allows for context making it more effective.**
 
 ---
 
@@ -56,11 +58,11 @@
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:all-MiniLM-L6-v2**
 
-**Top-k:**
+**Top-k:6**
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:Models like the MiniLM are fast and cheap but they might misinterprit neutral/sarcastic reviews. Additionally reddit threads often include slang which makes it difficulty for the model to guage sentiment.**
 
 ---
 
@@ -73,11 +75,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |How do students view Russell hall at UGA?|Russell hall is very social, has a nice location, and good study areas.|
+| 2 |What is the cheapest dorm option.|Brown Hall|
+| 3 |Whats the benefit of a high rise dorm versus other dorms.|High Rises are newer and more socical; Older dorms are larger but less social.|
+| 4 |What do students think of Brumby Hall|Students think positively of Brumby Hall as it is a quiet, relaxing place|
+| 5 |What dorms isnt Coed|Soule Hall.|
 
 ---
 
@@ -87,9 +89,9 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. There could be conflicing opinions across the sources.
 
-2.
+2. Many sources say top 5 dorms which could add bias to the results. 
 
 ---
 
@@ -101,6 +103,20 @@
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
+     1:Document Ingestion
+          (Python)
+            
+     2:Chunking
+          (300 tokens, 50 overlap)
+            
+     3:Embedding + Vector Store
+          (all-MiniLM-L6-v2 + ChromaDB)
+            
+     4:Retrieval
+          (top-k, k=6)
+            
+     5:Generation
+          (Grok API)
 ---
 
 ## AI Tool Plan
